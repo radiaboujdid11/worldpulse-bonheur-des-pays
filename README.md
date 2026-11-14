@@ -8,7 +8,7 @@
 
 **La méthode.** 7 indicateurs de la World Bank (API) + le score de bonheur du *World Happiness Report* (scraping Wikipedia), fusionnés par code pays ISO3, pour 146 pays. Puis analyse exploratoire, sélection de variables justifiée par des métriques, comparaison de modèles en validation croisée, clustering et deux analyses complémentaires.
 
-📄 **[Lire le rapport complet, sans code](reports/rapport_worldpulse.html)** (à télécharger et ouvrir dans un navigateur) · 📓 **[Notebook avec le code](notebooks/rapport_worldpulse.ipynb)**
+🌐 **[Lire le rapport complet en ligne, sans code](https://radiaboujdid11.github.io/worldpulse-bonheur-des-pays/)** · 📓 **[Notebook avec le code](notebooks/rapport_worldpulse.ipynb)**
 
 ![Bonheur et PIB par habitant : la droite de tendance et les pays les plus éloignés](reports/figures/bonheur_vs_pib.png)
 
@@ -69,7 +69,8 @@ python run_all.py --depuis 03
 
 # Rapport : exécuter le notebook, puis exporter la version sans code
 jupyter nbconvert --to notebook --execute --inplace notebooks/rapport_worldpulse.ipynb
-jupyter nbconvert --to html --no-input --output-dir reports --output rapport_worldpulse notebooks/rapport_worldpulse.ipynb
+# (docs/index.html est publié automatiquement par GitHub Pages)
+jupyter nbconvert --to html --no-input --output-dir docs --output index notebooks/rapport_worldpulse.ipynb
 ```
 
 ### Tests
@@ -101,9 +102,11 @@ Les données téléchargées en novembre 2026 sont versionnées dans `data/` : d
 │   └── 08_easterlin.py           # test : paradoxe d'Easterlin
 ├── data/raw/                   # données brutes, jamais modifiées
 ├── data/processed/             # données nettoyées et fusionnées
-├── reports/                    # résultats (CSV), figures, rapport HTML
+├── reports/                    # résultats (CSV) et figures
 ├── notebooks/rapport_worldpulse.ipynb  # rapport complet avec le code
-└── docs/dictionnaire_donnees.md         # sens de chaque colonne de chaque fichier
+└── docs/
+    ├── index.html                # rapport sans code, publié sur GitHub Pages
+    └── dictionnaire_donnees.md   # sens de chaque colonne de chaque fichier
 ```
 
 Le sens de chaque variable et de chaque fichier est décrit dans le **[dictionnaire des données](docs/dictionnaire_donnees.md)**.
