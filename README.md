@@ -29,7 +29,7 @@ Quels facteurs (richesse, santé, éducation, internet, emploi, urbanisation) ex
 | 8 | Clustering | `src/06_clustering.py` | `reports/clustering_*.csv` | ✅ |
 | 8b | Test : gouvernance (WGI) | `src/07_gouvernance.py` | `reports/gouvernance_*.csv` | ✅ |
 | 8c | Test : paradoxe d'Easterlin | `src/08_easterlin.py` | `reports/easterlin_*.csv` | ✅ |
-| 9 | Conclusion | `README.md` | — | ⏳ |
+| 9 | Conclusion et recommandations | `notebooks/rapport_worldpulse.ipynb` (section 11) | — | ✅ |
 
 ## Utilisation (Windows / PowerShell)
 
@@ -223,7 +223,7 @@ Estimation honnête, qui inclut l'étape de sélection (validation croisée imbr
 - PIB × 2 → +0,30 point (coefficient +1,01 [0,58 ; 1,44] par log10) ;
 - +5 points de chômage → −0,30 point ;
 - +10 points d'accès à internet → +0,12 point ;
-- +1 point de PIB en dépenses d'éducation → +0,10 ; en dépenses de santé → +0,06.
+- +1 point de PIB en dépenses d'éducation → +0,09 ; en dépenses de santé → +0,06.
 
 Environ 35 % des écarts restent inexpliqués. *Hypothèse* : conflits, liens sociaux. La gouvernance a été testée et n'explique presque rien de plus (voir plus bas).
 
