@@ -1,0 +1,901 @@
+modele,variables,pli,metrique,test
+Régression linéaire,Modèle final,0,MAE,0.4928228064737613
+Régression linéaire,Modèle final,0,RMSE,0.6799513261122362
+Régression linéaire,Modèle final,0,R2,0.5834080332623248
+Régression linéaire,Modèle final,1,MAE,0.40009388322243944
+Régression linéaire,Modèle final,1,RMSE,0.5421019786896237
+Régression linéaire,Modèle final,1,R2,0.7847197188729683
+Régression linéaire,Modèle final,2,MAE,0.5223480016167191
+Régression linéaire,Modèle final,2,RMSE,0.6314356483707131
+Régression linéaire,Modèle final,2,R2,0.6172914673142995
+Régression linéaire,Modèle final,3,MAE,0.42967560577968666
+Régression linéaire,Modèle final,3,RMSE,0.5669847537581215
+Régression linéaire,Modèle final,3,R2,0.7444234320295858
+Régression linéaire,Modèle final,4,MAE,0.5013163625050607
+Régression linéaire,Modèle final,4,RMSE,0.7759036335552617
+Régression linéaire,Modèle final,4,R2,0.6190611716867934
+Régression linéaire,Modèle final,5,MAE,0.48710643058295183
+Régression linéaire,Modèle final,5,RMSE,0.743309604158904
+Régression linéaire,Modèle final,5,R2,0.720118706450786
+Régression linéaire,Modèle final,6,MAE,0.47863531265957276
+Régression linéaire,Modèle final,6,RMSE,0.6246529981569655
+Régression linéaire,Modèle final,6,R2,0.683531526050994
+Régression linéaire,Modèle final,7,MAE,0.4620097907449083
+Régression linéaire,Modèle final,7,RMSE,0.5995360380146891
+Régression linéaire,Modèle final,7,R2,0.6738735962425766
+Régression linéaire,Modèle final,8,MAE,0.46733110074102807
+Régression linéaire,Modèle final,8,RMSE,0.6195555867689092
+Régression linéaire,Modèle final,8,R2,0.6723015227011885
+Régression linéaire,Modèle final,9,MAE,0.5630301440116895
+Régression linéaire,Modèle final,9,RMSE,0.7225597326015739
+Régression linéaire,Modèle final,9,R2,0.43275635052457195
+Régression linéaire,Modèle final,10,MAE,0.5666025169260518
+Régression linéaire,Modèle final,10,RMSE,0.823579593296033
+Régression linéaire,Modèle final,10,R2,0.5877493871564288
+Régression linéaire,Modèle final,11,MAE,0.39758291893080505
+Régression linéaire,Modèle final,11,RMSE,0.5521979963165052
+Régression linéaire,Modèle final,11,R2,0.7694066861884664
+Régression linéaire,Modèle final,12,MAE,0.5111189993403141
+Régression linéaire,Modèle final,12,RMSE,0.686741119224933
+Régression linéaire,Modèle final,12,R2,0.43600353704852546
+Régression linéaire,Modèle final,13,MAE,0.4112506094450803
+Régression linéaire,Modèle final,13,RMSE,0.5591609616498482
+Régression linéaire,Modèle final,13,R2,0.7195581094339507
+Régression linéaire,Modèle final,14,MAE,0.5092754857303526
+Régression linéaire,Modèle final,14,RMSE,0.6563044278996819
+Régression linéaire,Modèle final,14,R2,0.6501245217341147
+Régression linéaire,Modèle final,15,MAE,0.4101256603696479
+Régression linéaire,Modèle final,15,RMSE,0.5206286648119033
+Régression linéaire,Modèle final,15,R2,0.8055470670099336
+Régression linéaire,Modèle final,16,MAE,0.4987311805061319
+Régression linéaire,Modèle final,16,RMSE,0.6711855845905529
+Régression linéaire,Modèle final,16,R2,0.5998984922557922
+Régression linéaire,Modèle final,17,MAE,0.5247788047095112
+Régression linéaire,Modèle final,17,RMSE,0.6840206465342553
+Régression linéaire,Modèle final,17,R2,0.4577449262744566
+Régression linéaire,Modèle final,18,MAE,0.49417625027425116
+Régression linéaire,Modèle final,18,RMSE,0.6280708605859795
+Régression linéaire,Modèle final,18,R2,0.6681614826638884
+Régression linéaire,Modèle final,19,MAE,0.5962523697466916
+Régression linéaire,Modèle final,19,RMSE,0.8246833805669633
+Régression linéaire,Modèle final,19,R2,0.6141484149858263
+Régression linéaire,Modèle final,20,MAE,0.5270601136159205
+Régression linéaire,Modèle final,20,RMSE,0.7453988597636013
+Régression linéaire,Modèle final,20,R2,0.5924263661618787
+Régression linéaire,Modèle final,21,MAE,0.45381915698759123
+Régression linéaire,Modèle final,21,RMSE,0.6352887604280056
+Régression linéaire,Modèle final,21,R2,0.7553255945130506
+Régression linéaire,Modèle final,22,MAE,0.5336635916385325
+Régression linéaire,Modèle final,22,RMSE,0.691887826984026
+Régression linéaire,Modèle final,22,R2,0.5332243504664753
+Régression linéaire,Modèle final,23,MAE,0.5363981121230439
+Régression linéaire,Modèle final,23,RMSE,0.6694059011289925
+Régression linéaire,Modèle final,23,R2,0.5827537814634736
+Régression linéaire,Modèle final,24,MAE,0.3529863649365457
+Régression linéaire,Modèle final,24,RMSE,0.5259574443478957
+Régression linéaire,Modèle final,24,R2,0.7661323902068268
+Régression linéaire,Modèle final,25,MAE,0.36481989639515155
+Régression linéaire,Modèle final,25,RMSE,0.45142346100690617
+Régression linéaire,Modèle final,25,R2,0.8420997766424023
+Régression linéaire,Modèle final,26,MAE,0.48152522798478037
+Régression linéaire,Modèle final,26,RMSE,0.598084266096954
+Régression linéaire,Modèle final,26,R2,0.6899558128602474
+Régression linéaire,Modèle final,27,MAE,0.5041006667150394
+Régression linéaire,Modèle final,27,RMSE,0.7170004231570919
+Régression linéaire,Modèle final,27,R2,0.6503737645244507
+Régression linéaire,Modèle final,28,MAE,0.6128029335289469
+Régression linéaire,Modèle final,28,RMSE,0.8269281432829931
+Régression linéaire,Modèle final,28,R2,0.43085569877028407
+Régression linéaire,Modèle final,29,MAE,0.4568490409275338
+Régression linéaire,Modèle final,29,RMSE,0.6170949297637869
+Régression linéaire,Modèle final,29,R2,0.629022708809629
+Régression linéaire,Modèle final,30,MAE,0.4645197258296211
+Régression linéaire,Modèle final,30,RMSE,0.5860902937411333
+Régression linéaire,Modèle final,30,R2,0.6279993445124574
+Régression linéaire,Modèle final,31,MAE,0.49642264329441643
+Régression linéaire,Modèle final,31,RMSE,0.7640076393333873
+Régression linéaire,Modèle final,31,R2,0.6435578716627481
+Régression linéaire,Modèle final,32,MAE,0.4093827675198549
+Régression linéaire,Modèle final,32,RMSE,0.5558450414521806
+Régression linéaire,Modèle final,32,R2,0.7821617181910141
+Régression linéaire,Modèle final,33,MAE,0.5134303936461089
+Régression linéaire,Modèle final,33,RMSE,0.6415167049412354
+Régression linéaire,Modèle final,33,R2,0.6569661549589811
+Régression linéaire,Modèle final,34,MAE,0.5124774847688713
+Régression linéaire,Modèle final,34,RMSE,0.7023230867541252
+Régression linéaire,Modèle final,34,R2,0.5952522304769714
+Régression linéaire,Modèle final,35,MAE,0.6149871695965626
+Régression linéaire,Modèle final,35,RMSE,0.866715365073904
+Régression linéaire,Modèle final,35,R2,0.6088967499439975
+Régression linéaire,Modèle final,36,MAE,0.4200368153155046
+Régression linéaire,Modèle final,36,RMSE,0.573058806127857
+Régression linéaire,Modèle final,36,R2,0.6228036178039134
+Régression linéaire,Modèle final,37,MAE,0.4491043741944996
+Régression linéaire,Modèle final,37,RMSE,0.5901298835779364
+Régression linéaire,Modèle final,37,R2,0.6794915437858602
+Régression linéaire,Modèle final,38,MAE,0.5347528805490935
+Régression linéaire,Modèle final,38,RMSE,0.6520505240946642
+Régression linéaire,Modèle final,38,R2,0.6521241251864436
+Régression linéaire,Modèle final,39,MAE,0.460400484743734
+Régression linéaire,Modèle final,39,RMSE,0.6238737048458545
+Régression linéaire,Modèle final,39,R2,0.6928342306351721
+Régression linéaire,Modèle final,40,MAE,0.519895549637922
+Régression linéaire,Modèle final,40,RMSE,0.6827929336976615
+Régression linéaire,Modèle final,40,R2,0.6106593484567927
+Régression linéaire,Modèle final,41,MAE,0.35483965723332134
+Régression linéaire,Modèle final,41,RMSE,0.4548218741841559
+Régression linéaire,Modèle final,41,R2,0.8213916759215674
+Régression linéaire,Modèle final,42,MAE,0.5225826948518112
+Régression linéaire,Modèle final,42,RMSE,0.8004432348434118
+Régression linéaire,Modèle final,42,R2,0.6106736755991
+Régression linéaire,Modèle final,43,MAE,0.5538894025041409
+Régression linéaire,Modèle final,43,RMSE,0.7034805888415214
+Régression linéaire,Modèle final,43,R2,0.6176343255438859
+Régression linéaire,Modèle final,44,MAE,0.3936719607134052
+Régression linéaire,Modèle final,44,RMSE,0.4936643309515043
+Régression linéaire,Modèle final,44,R2,0.7772425130080356
+Régression linéaire,Modèle final,45,MAE,0.575616245029115
+Régression linéaire,Modèle final,45,RMSE,0.7668201977361371
+Régression linéaire,Modèle final,45,R2,0.5786481211209171
+Régression linéaire,Modèle final,46,MAE,0.32377841693600057
+Régression linéaire,Modèle final,46,RMSE,0.4871258937561516
+Régression linéaire,Modèle final,46,R2,0.7839239351665819
+Régression linéaire,Modèle final,47,MAE,0.530493918042164
+Régression linéaire,Modèle final,47,RMSE,0.623798362698813
+Régression linéaire,Modèle final,47,R2,0.5922799620218305
+Régression linéaire,Modèle final,48,MAE,0.5047115596252167
+Régression linéaire,Modèle final,48,RMSE,0.6839967704401335
+Régression linéaire,Modèle final,48,R2,0.5960134946635975
+Régression linéaire,Modèle final,49,MAE,0.5051495354468817
+Régression linéaire,Modèle final,49,RMSE,0.7258411274969417
+Régression linéaire,Modèle final,49,R2,0.6718874913867408
+Régression linéaire,Modèle final + gouvernance,0,MAE,0.4905475165385124
+Régression linéaire,Modèle final + gouvernance,0,RMSE,0.6848953457342601
+Régression linéaire,Modèle final + gouvernance,0,R2,0.5773278132899001
+Régression linéaire,Modèle final + gouvernance,1,MAE,0.4028369996758776
+Régression linéaire,Modèle final + gouvernance,1,RMSE,0.5263277635290776
+Régression linéaire,Modèle final + gouvernance,1,R2,0.7970659952996587
+Régression linéaire,Modèle final + gouvernance,2,MAE,0.5314190712761657
+Régression linéaire,Modèle final + gouvernance,2,RMSE,0.6405916067435543
+Régression linéaire,Modèle final + gouvernance,2,R2,0.6061122814211544
+Régression linéaire,Modèle final + gouvernance,3,MAE,0.4505147311960911
+Régression linéaire,Modèle final + gouvernance,3,RMSE,0.555332364106324
+Régression linéaire,Modèle final + gouvernance,3,R2,0.7548204515166105
+Régression linéaire,Modèle final + gouvernance,4,MAE,0.5267418394574205
+Régression linéaire,Modèle final + gouvernance,4,RMSE,0.8087694972941719
+Régression linéaire,Modèle final + gouvernance,4,R2,0.5861059365340027
+Régression linéaire,Modèle final + gouvernance,5,MAE,0.5108934636065727
+Régression linéaire,Modèle final + gouvernance,5,RMSE,0.7670046814794024
+Régression linéaire,Modèle final + gouvernance,5,R2,0.7019902910420548
+Régression linéaire,Modèle final + gouvernance,6,MAE,0.4515968416851121
+Régression linéaire,Modèle final + gouvernance,6,RMSE,0.5988754099057684
+Régression linéaire,Modèle final + gouvernance,6,R2,0.7091120322883988
+Régression linéaire,Modèle final + gouvernance,7,MAE,0.46469981977298785
+Régression linéaire,Modèle final + gouvernance,7,RMSE,0.5846487639248215
+Régression linéaire,Modèle final + gouvernance,7,R2,0.68986880974909
+Régression linéaire,Modèle final + gouvernance,8,MAE,0.4939506709051765
+Régression linéaire,Modèle final + gouvernance,8,RMSE,0.6272587261029486
+Régression linéaire,Modèle final + gouvernance,8,R2,0.6641020976418599
+Régression linéaire,Modèle final + gouvernance,9,MAE,0.5809795931782957
+Régression linéaire,Modèle final + gouvernance,9,RMSE,0.7684818366243958
+Régression linéaire,Modèle final + gouvernance,9,R2,0.35836307833719727
+Régression linéaire,Modèle final + gouvernance,10,MAE,0.5813994693622618
+Régression linéaire,Modèle final + gouvernance,10,RMSE,0.8548570954484186
+Régression linéaire,Modèle final + gouvernance,10,R2,0.5558422982459054
+Régression linéaire,Modèle final + gouvernance,11,MAE,0.4481312579168866
+Régression linéaire,Modèle final + gouvernance,11,RMSE,0.5762358184253562
+Régression linéaire,Modèle final + gouvernance,11,R2,0.7488937293471056
+Régression linéaire,Modèle final + gouvernance,12,MAE,0.4988442197061028
+Régression linéaire,Modèle final + gouvernance,12,RMSE,0.6836934484322111
+Régression linéaire,Modèle final + gouvernance,12,R2,0.44099832015522755
+Régression linéaire,Modèle final + gouvernance,13,MAE,0.39850866953485575
+Régression linéaire,Modèle final + gouvernance,13,RMSE,0.5359203034815644
+Régression linéaire,Modèle final + gouvernance,13,R2,0.7423859048628634
+Régression linéaire,Modèle final + gouvernance,14,MAE,0.5225182465243747
+Régression linéaire,Modèle final + gouvernance,14,RMSE,0.6455285064460973
+Régression linéaire,Modèle final + gouvernance,14,R2,0.661519473939373
+Régression linéaire,Modèle final + gouvernance,15,MAE,0.3978257250898162
+Régression linéaire,Modèle final + gouvernance,15,RMSE,0.5072189477455614
+Régression linéaire,Modèle final + gouvernance,15,R2,0.8154350268209136
+Régression linéaire,Modèle final + gouvernance,16,MAE,0.4933267859546502
+Régression linéaire,Modèle final + gouvernance,16,RMSE,0.7071275248599138
+Régression linéaire,Modèle final + gouvernance,16,R2,0.5559003487142552
+Régression linéaire,Modèle final + gouvernance,17,MAE,0.5589122278230871
+Régression linéaire,Modèle final + gouvernance,17,RMSE,0.6927215162654164
+Régression linéaire,Modèle final + gouvernance,17,R2,0.4438620171044221
+Régression linéaire,Modèle final + gouvernance,18,MAE,0.5365812738221545
+Régression linéaire,Modèle final + gouvernance,18,RMSE,0.6546954421300288
+Régression linéaire,Modèle final + gouvernance,18,R2,0.6394312040000949
+Régression linéaire,Modèle final + gouvernance,19,MAE,0.5764287542645987
+Régression linéaire,Modèle final + gouvernance,19,RMSE,0.8041564482496388
+Régression linéaire,Modèle final + gouvernance,19,R2,0.6331175808574435
+Régression linéaire,Modèle final + gouvernance,20,MAE,0.5137352332843964
+Régression linéaire,Modèle final + gouvernance,20,RMSE,0.7408623378086012
+Régression linéaire,Modèle final + gouvernance,20,R2,0.597372282775185
+Régression linéaire,Modèle final + gouvernance,21,MAE,0.45459342667908686
+Régression linéaire,Modèle final + gouvernance,21,RMSE,0.6168918675240497
+Régression linéaire,Modèle final + gouvernance,21,R2,0.7692911321284785
+Régression linéaire,Modèle final + gouvernance,22,MAE,0.5558167725072982
+Régression linéaire,Modèle final + gouvernance,22,RMSE,0.7496179407150593
+Régression linéaire,Modèle final + gouvernance,22,R2,0.45208050040470105
+Régression linéaire,Modèle final + gouvernance,23,MAE,0.5347179521341853
+Régression linéaire,Modèle final + gouvernance,23,RMSE,0.6674190757302395
+Régression linéaire,Modèle final + gouvernance,23,R2,0.5852269151368217
+Régression linéaire,Modèle final + gouvernance,24,MAE,0.37251348660079936
+Régression linéaire,Modèle final + gouvernance,24,RMSE,0.5231419694171797
+Régression linéaire,Modèle final + gouvernance,24,R2,0.7686294973280706
+Régression linéaire,Modèle final + gouvernance,25,MAE,0.34150800745194354
+Régression linéaire,Modèle final + gouvernance,25,RMSE,0.4602704947602438
+Régression linéaire,Modèle final + gouvernance,25,R2,0.8358500466933664
+Régression linéaire,Modèle final + gouvernance,26,MAE,0.5088093625759001
+Régression linéaire,Modèle final + gouvernance,26,RMSE,0.6180887865718591
+Régression linéaire,Modèle final + gouvernance,26,R2,0.6688684456823506
+Régression linéaire,Modèle final + gouvernance,27,MAE,0.5102548904584753
+Régression linéaire,Modèle final + gouvernance,27,RMSE,0.6943187408089789
+Régression linéaire,Modèle final + gouvernance,27,R2,0.672144128639904
+Régression linéaire,Modèle final + gouvernance,28,MAE,0.6318417348340634
+Régression linéaire,Modèle final + gouvernance,28,RMSE,0.8433992242448622
+Régression linéaire,Modèle final + gouvernance,28,R2,0.4079570136601176
+Régression linéaire,Modèle final + gouvernance,29,MAE,0.46071771540706485
+Régression linéaire,Modèle final + gouvernance,29,RMSE,0.5976208975059168
+Régression linéaire,Modèle final + gouvernance,29,R2,0.6520675619470617
+Régression linéaire,Modèle final + gouvernance,30,MAE,0.46824681930805073
+Régression linéaire,Modèle final + gouvernance,30,RMSE,0.6009055494765123
+Régression linéaire,Modèle final + gouvernance,30,R2,0.608954694428653
+Régression linéaire,Modèle final + gouvernance,31,MAE,0.49881011119271557
+Régression linéaire,Modèle final + gouvernance,31,RMSE,0.770242882449149
+Régression linéaire,Modèle final + gouvernance,31,R2,0.6377161172248764
+Régression linéaire,Modèle final + gouvernance,32,MAE,0.46957523482537766
+Régression linéaire,Modèle final + gouvernance,32,RMSE,0.6130184445226026
+Régression linéaire,Modèle final + gouvernance,32,R2,0.7350439657247079
+Régression linéaire,Modèle final + gouvernance,33,MAE,0.5336479036393073
+Régression linéaire,Modèle final + gouvernance,33,RMSE,0.6340492841156518
+Régression linéaire,Modèle final + gouvernance,33,R2,0.6649056812164575
+Régression linéaire,Modèle final + gouvernance,34,MAE,0.5497177816104648
+Régression linéaire,Modèle final + gouvernance,34,RMSE,0.7189050204774251
+Régression linéaire,Modèle final + gouvernance,34,R2,0.5759143203560926
+Régression linéaire,Modèle final + gouvernance,35,MAE,0.5840937729166894
+Régression linéaire,Modèle final + gouvernance,35,RMSE,0.8587779388582899
+Régression linéaire,Modèle final + gouvernance,35,R2,0.6160274375890464
+Régression linéaire,Modèle final + gouvernance,36,MAE,0.4305369610379092
+Régression linéaire,Modèle final + gouvernance,36,RMSE,0.5716191471055874
+Régression linéaire,Modèle final + gouvernance,36,R2,0.6246964499320189
+Régression linéaire,Modèle final + gouvernance,37,MAE,0.4530425498281786
+Régression linéaire,Modèle final + gouvernance,37,RMSE,0.5792295822050284
+Régression linéaire,Modèle final + gouvernance,37,R2,0.691222429898956
+Régression linéaire,Modèle final + gouvernance,38,MAE,0.5480808966397702
+Régression linéaire,Modèle final + gouvernance,38,RMSE,0.6525471504805039
+Régression linéaire,Modèle final + gouvernance,38,R2,0.6515940124912576
+Régression linéaire,Modèle final + gouvernance,39,MAE,0.45262354227795215
+Régression linéaire,Modèle final + gouvernance,39,RMSE,0.6038448659493965
+Régression linéaire,Modèle final + gouvernance,39,R2,0.7122401423835318
+Régression linéaire,Modèle final + gouvernance,40,MAE,0.5150318741718898
+Régression linéaire,Modèle final + gouvernance,40,RMSE,0.6795327320776353
+Régression linéaire,Modèle final + gouvernance,40,R2,0.6143685216556172
+Régression linéaire,Modèle final + gouvernance,41,MAE,0.36936611080313253
+Régression linéaire,Modèle final + gouvernance,41,RMSE,0.475063918799017
+Régression linéaire,Modèle final + gouvernance,41,R2,0.8051398186812496
+Régression linéaire,Modèle final + gouvernance,42,MAE,0.5202891459514672
+Régression linéaire,Modèle final + gouvernance,42,RMSE,0.8120818582909602
+Régression linéaire,Modèle final + gouvernance,42,R2,0.5992695815101032
+Régression linéaire,Modèle final + gouvernance,43,MAE,0.5397792822609676
+Régression linéaire,Modèle final + gouvernance,43,RMSE,0.6754002365690649
+Régression linéaire,Modèle final + gouvernance,43,R2,0.6475503545319332
+Régression linéaire,Modèle final + gouvernance,44,MAE,0.4363587509624704
+Régression linéaire,Modèle final + gouvernance,44,RMSE,0.5566922459767756
+Régression linéaire,Modèle final + gouvernance,44,R2,0.716730930360282
+Régression linéaire,Modèle final + gouvernance,45,MAE,0.5691198705729806
+Régression linéaire,Modèle final + gouvernance,45,RMSE,0.770941480809036
+Régression linéaire,Modèle final + gouvernance,45,R2,0.5741068301696661
+Régression linéaire,Modèle final + gouvernance,46,MAE,0.4061248376295634
+Régression linéaire,Modèle final + gouvernance,46,RMSE,0.5580071771065103
+Régression linéaire,Modèle final + gouvernance,46,R2,0.7164668776968655
+Régression linéaire,Modèle final + gouvernance,47,MAE,0.5189823780349434
+Régression linéaire,Modèle final + gouvernance,47,RMSE,0.615785836623145
+Régression linéaire,Modèle final + gouvernance,47,R2,0.6026868069352458
+Régression linéaire,Modèle final + gouvernance,48,MAE,0.5102737255836124
+Régression linéaire,Modèle final + gouvernance,48,RMSE,0.6722512653836213
+Régression linéaire,Modèle final + gouvernance,48,R2,0.6097687790703354
+Régression linéaire,Modèle final + gouvernance,49,MAE,0.5393270367560772
+Régression linéaire,Modèle final + gouvernance,49,RMSE,0.7739941012111403
+Régression linéaire,Modèle final + gouvernance,49,R2,0.6269088529156112
+Régression linéaire,PIB + gouvernance,0,MAE,0.5973040220994082
+Régression linéaire,PIB + gouvernance,0,RMSE,0.8143201405054028
+Régression linéaire,PIB + gouvernance,0,R2,0.4024894285947176
+Régression linéaire,PIB + gouvernance,1,MAE,0.4479511188195657
+Régression linéaire,PIB + gouvernance,1,RMSE,0.610635277856672
+Régression linéaire,PIB + gouvernance,1,R2,0.7268469533926794
+Régression linéaire,PIB + gouvernance,2,MAE,0.5458953920525519
+Régression linéaire,PIB + gouvernance,2,RMSE,0.6837191960365556
+Régression linéaire,PIB + gouvernance,2,R2,0.5512902585729195
+Régression linéaire,PIB + gouvernance,3,MAE,0.48466717121725095
+Régression linéaire,PIB + gouvernance,3,RMSE,0.6152930976704662
+Régression linéaire,PIB + gouvernance,3,R2,0.6990167283461844
+Régression linéaire,PIB + gouvernance,4,MAE,0.5241638351004657
+Régression linéaire,PIB + gouvernance,4,RMSE,0.8153298362356108
+Régression linéaire,PIB + gouvernance,4,R2,0.5793640950612396
+Régression linéaire,PIB + gouvernance,5,MAE,0.6163726165829327
+Régression linéaire,PIB + gouvernance,5,RMSE,0.8558229699564448
+Régression linéaire,PIB + gouvernance,5,R2,0.6289757796883133
+Régression linéaire,PIB + gouvernance,6,MAE,0.5005248115916923
+Régression linéaire,PIB + gouvernance,6,RMSE,0.6412939265266167
+Régression linéaire,PIB + gouvernance,6,R2,0.6664453119315952
+Régression linéaire,PIB + gouvernance,7,MAE,0.46144965489526313
+Régression linéaire,PIB + gouvernance,7,RMSE,0.5854914739154424
+Régression linéaire,PIB + gouvernance,7,R2,0.6889741221233944
+Régression linéaire,PIB + gouvernance,8,MAE,0.44187237546549907
+Régression linéaire,PIB + gouvernance,8,RMSE,0.5991557816631249
+Régression linéaire,PIB + gouvernance,8,R2,0.6935261830439576
+Régression linéaire,PIB + gouvernance,9,MAE,0.6596621281407569
+Régression linéaire,PIB + gouvernance,9,RMSE,0.8827357504774195
+Régression linéaire,PIB + gouvernance,9,R2,0.1533896694757726
+Régression linéaire,PIB + gouvernance,10,MAE,0.6577173760081559
+Régression linéaire,PIB + gouvernance,10,RMSE,0.9315795196026935
+Régression linéaire,PIB + gouvernance,10,R2,0.47253940531844774
+Régression linéaire,PIB + gouvernance,11,MAE,0.45751144061541565
+Régression linéaire,PIB + gouvernance,11,RMSE,0.628894683238894
+Régression linéaire,PIB + gouvernance,11,R2,0.7009024167045843
+Régression linéaire,PIB + gouvernance,12,MAE,0.4722064235462984
+Régression linéaire,PIB + gouvernance,12,RMSE,0.6126737173119752
+Régression linéaire,PIB + gouvernance,12,R2,0.5511008563407
+Régression linéaire,PIB + gouvernance,13,MAE,0.4976713577304684
+Régression linéaire,PIB + gouvernance,13,RMSE,0.6340367600344023
+Régression linéaire,PIB + gouvernance,13,R2,0.6394229543747956
+Régression linéaire,PIB + gouvernance,14,MAE,0.5539064311936734
+Régression linéaire,PIB + gouvernance,14,RMSE,0.7119479607063345
+Régression linéaire,PIB + gouvernance,14,R2,0.5882824903254269
+Régression linéaire,PIB + gouvernance,15,MAE,0.42457617624994
+Régression linéaire,PIB + gouvernance,15,RMSE,0.5518874669994343
+Régression linéaire,PIB + gouvernance,15,R2,0.7814959909484754
+Régression linéaire,PIB + gouvernance,16,MAE,0.5412551678829648
+Régression linéaire,PIB + gouvernance,16,RMSE,0.801470654275502
+Régression linéaire,PIB + gouvernance,16,R2,0.42949402397214465
+Régression linéaire,PIB + gouvernance,17,MAE,0.5237789772212051
+Régression linéaire,PIB + gouvernance,17,RMSE,0.6462274915005438
+Régression linéaire,PIB + gouvernance,17,R2,0.5160103637501456
+Régression linéaire,PIB + gouvernance,18,MAE,0.6671049397264766
+Régression linéaire,PIB + gouvernance,18,RMSE,0.7979839244314437
+Régression linéaire,PIB + gouvernance,18,R2,0.4643294261984505
+Régression linéaire,PIB + gouvernance,19,MAE,0.5796906381542082
+Régression linéaire,PIB + gouvernance,19,RMSE,0.817337381506476
+Régression linéaire,PIB + gouvernance,19,R2,0.6209918684146751
+Régression linéaire,PIB + gouvernance,20,MAE,0.5202299930007511
+Régression linéaire,PIB + gouvernance,20,RMSE,0.7199988322997407
+Régression linéaire,PIB + gouvernance,20,R2,0.6197298661932018
+Régression linéaire,PIB + gouvernance,21,MAE,0.5455134536626961
+Régression linéaire,PIB + gouvernance,21,RMSE,0.7173049762027943
+Régression linéaire,PIB + gouvernance,21,R2,0.6880723412910454
+Régression linéaire,PIB + gouvernance,22,MAE,0.6156633674149558
+Régression linéaire,PIB + gouvernance,22,RMSE,0.8462038691882664
+Régression linéaire,PIB + gouvernance,22,R2,0.3017887759033302
+Régression linéaire,PIB + gouvernance,23,MAE,0.47430201766571867
+Régression linéaire,PIB + gouvernance,23,RMSE,0.6108796910792086
+Régression linéaire,PIB + gouvernance,23,R2,0.6525240823840344
+Régression linéaire,PIB + gouvernance,24,MAE,0.4894624815443121
+Régression linéaire,PIB + gouvernance,24,RMSE,0.6741435828786513
+Régression linéaire,PIB + gouvernance,24,R2,0.6157855680869042
+Régression linéaire,PIB + gouvernance,25,MAE,0.4735993483136399
+Régression linéaire,PIB + gouvernance,25,RMSE,0.5851354190598816
+Régression linéaire,PIB + gouvernance,25,R2,0.7347060984116005
+Régression linéaire,PIB + gouvernance,26,MAE,0.5094481039105222
+Régression linéaire,PIB + gouvernance,26,RMSE,0.6392229915804801
+Régression linéaire,PIB + gouvernance,26,R2,0.6458366532349162
+Régression linéaire,PIB + gouvernance,27,MAE,0.6124163452995334
+Régression linéaire,PIB + gouvernance,27,RMSE,0.8248554310169782
+Régression linéaire,PIB + gouvernance,27,R2,0.5372772348487629
+Régression linéaire,PIB + gouvernance,28,MAE,0.5150106496490787
+Régression linéaire,PIB + gouvernance,28,RMSE,0.8115049154718627
+Régression linéaire,PIB + gouvernance,28,R2,0.45188819509882017
+Régression linéaire,PIB + gouvernance,29,MAE,0.5315210479476418
+Régression linéaire,PIB + gouvernance,29,RMSE,0.6841472788783755
+Régression linéaire,PIB + gouvernance,29,R2,0.544023377494661
+Régression linéaire,PIB + gouvernance,30,MAE,0.4813541592917591
+Régression linéaire,PIB + gouvernance,30,RMSE,0.626963105619657
+Régression linéaire,PIB + gouvernance,30,R2,0.574304933535996
+Régression linéaire,PIB + gouvernance,31,MAE,0.5623611038277785
+Régression linéaire,PIB + gouvernance,31,RMSE,0.8043898009415139
+Régression linéaire,PIB + gouvernance,31,R2,0.6048820709916611
+Régression linéaire,PIB + gouvernance,32,MAE,0.5372660226094951
+Régression linéaire,PIB + gouvernance,32,RMSE,0.7082878047130835
+Régression linéaire,PIB + gouvernance,32,R2,0.6462908784505348
+Régression linéaire,PIB + gouvernance,33,MAE,0.5115559282710445
+Régression linéaire,PIB + gouvernance,33,RMSE,0.643160360894256
+Régression linéaire,PIB + gouvernance,33,R2,0.655206101253428
+Régression linéaire,PIB + gouvernance,34,MAE,0.5730716117676518
+Régression linéaire,PIB + gouvernance,34,RMSE,0.8001041182672941
+Régression linéaire,PIB + gouvernance,34,R2,0.47470461394360597
+Régression linéaire,PIB + gouvernance,35,MAE,0.6627244567325954
+Régression linéaire,PIB + gouvernance,35,RMSE,0.94646318284495
+Régression linéaire,PIB + gouvernance,35,R2,0.5336135946013016
+Régression linéaire,PIB + gouvernance,36,MAE,0.5360816897364518
+Régression linéaire,PIB + gouvernance,36,RMSE,0.7020489361459801
+Régression linéaire,PIB + gouvernance,36,R2,0.43388598263263367
+Régression linéaire,PIB + gouvernance,37,MAE,0.5234181218228084
+Régression linéaire,PIB + gouvernance,37,RMSE,0.6539792372142952
+Régression linéaire,PIB + gouvernance,37,R2,0.6063844943076215
+Régression linéaire,PIB + gouvernance,38,MAE,0.5143384276093896
+Régression linéaire,PIB + gouvernance,38,RMSE,0.6285466852466987
+Régression linéaire,PIB + gouvernance,38,R2,0.6767512191079224
+Régression linéaire,PIB + gouvernance,39,MAE,0.4182785315825872
+Régression linéaire,PIB + gouvernance,39,RMSE,0.5922550995495418
+Régression linéaire,PIB + gouvernance,39,R2,0.7231802505003044
+Régression linéaire,PIB + gouvernance,40,MAE,0.5374330720747912
+Régression linéaire,PIB + gouvernance,40,RMSE,0.7843707449642754
+Régression linéaire,PIB + gouvernance,40,R2,0.486199538587596
+Régression linéaire,PIB + gouvernance,41,MAE,0.4355591954182152
+Régression linéaire,PIB + gouvernance,41,RMSE,0.5376126696399055
+Régression linéaire,PIB + gouvernance,41,R2,0.7504497562443827
+Régression linéaire,PIB + gouvernance,42,MAE,0.5950472557993529
+Régression linéaire,PIB + gouvernance,42,RMSE,0.8706525191157045
+Régression linéaire,PIB + gouvernance,42,R2,0.5393803991310582
+Régression linéaire,PIB + gouvernance,43,MAE,0.6492015135256207
+Régression linéaire,PIB + gouvernance,43,RMSE,0.7999741629499428
+Régression linéaire,PIB + gouvernance,43,R2,0.5055452167511632
+Régression linéaire,PIB + gouvernance,44,MAE,0.45210473053968914
+Régression linéaire,PIB + gouvernance,44,RMSE,0.5855944710370474
+Régression linéaire,PIB + gouvernance,44,R2,0.6865539891330423
+Régression linéaire,PIB + gouvernance,45,MAE,0.6340266986502855
+Régression linéaire,PIB + gouvernance,45,RMSE,0.8625087170693319
+Régression linéaire,PIB + gouvernance,45,R2,0.46692927356313374
+Régression linéaire,PIB + gouvernance,46,MAE,0.461544191568952
+Régression linéaire,PIB + gouvernance,46,RMSE,0.5927448075073618
+Régression linéaire,PIB + gouvernance,46,R2,0.6800664779314967
+Régression linéaire,PIB + gouvernance,47,MAE,0.5245061295985205
+Régression linéaire,PIB + gouvernance,47,RMSE,0.6185380768535831
+Régression linéaire,PIB + gouvernance,47,R2,0.5991273062839669
+Régression linéaire,PIB + gouvernance,48,MAE,0.6203198075220658
+Régression linéaire,PIB + gouvernance,48,RMSE,0.8052446385019308
+Régression linéaire,PIB + gouvernance,48,R2,0.4400948789228116
+Régression linéaire,PIB + gouvernance,49,MAE,0.47048832866096246
+Régression linéaire,PIB + gouvernance,49,RMSE,0.7621700831475509
+Régression linéaire,PIB + gouvernance,49,R2,0.6382209301630969
+Random Forest,Modèle final,0,MAE,0.5622947677598326
+Random Forest,Modèle final,0,RMSE,0.7552364649495156
+Random Forest,Modèle final,0,R2,0.48604967817132394
+Random Forest,Modèle final,1,MAE,0.4726270490964972
+Random Forest,Modèle final,1,RMSE,0.6332831605245032
+Random Forest,Modèle final,1,R2,0.7062092304097606
+Random Forest,Modèle final,2,MAE,0.5247550984442763
+Random Forest,Modèle final,2,RMSE,0.6236660226397115
+Random Forest,Modèle final,2,R2,0.6266517498589855
+Random Forest,Modèle final,3,MAE,0.4577622731814152
+Random Forest,Modèle final,3,RMSE,0.6082337501512866
+Random Forest,Modèle final,3,R2,0.7058835590074283
+Random Forest,Modèle final,4,MAE,0.5227641255433252
+Random Forest,Modèle final,4,RMSE,0.8446458424805646
+Random Forest,Modèle final,4,R2,0.5485715063808839
+Random Forest,Modèle final,5,MAE,0.5567546468235464
+Random Forest,Modèle final,5,RMSE,0.8252768093247076
+Random Forest,Modèle final,5,R2,0.6549884242211448
+Random Forest,Modèle final,6,MAE,0.5691697932599015
+Random Forest,Modèle final,6,RMSE,0.7258377770580808
+Random Forest,Modèle final,6,R2,0.5727009464928361
+Random Forest,Modèle final,7,MAE,0.4699374064058883
+Random Forest,Modèle final,7,RMSE,0.6298595849111441
+Random Forest,Modèle final,7,R2,0.640049435036141
+Random Forest,Modèle final,8,MAE,0.4171578293140603
+Random Forest,Modèle final,8,RMSE,0.5794576441571663
+Random Forest,Modèle final,8,R2,0.7133464918675188
+Random Forest,Modèle final,9,MAE,0.4999709726997128
+Random Forest,Modèle final,9,RMSE,0.6757000023896899
+Random Forest,Modèle final,9,R2,0.5039448383215028
+Random Forest,Modèle final,10,MAE,0.5826404970493402
+Random Forest,Modèle final,10,RMSE,0.9403120919859997
+Random Forest,Modèle final,10,R2,0.46260428689846667
+Random Forest,Modèle final,11,MAE,0.40163498974481693
+Random Forest,Modèle final,11,RMSE,0.5328408706146484
+Random Forest,Modèle final,11,R2,0.7852900770474182
+Random Forest,Modèle final,12,MAE,0.48394443350806254
+Random Forest,Modèle final,12,RMSE,0.645544856981542
+Random Forest,Modèle final,12,R2,0.5016400570528374
+Random Forest,Modèle final,13,MAE,0.4429761814260455
+Random Forest,Modèle final,13,RMSE,0.5979871885233838
+Random Forest,Modèle final,13,R2,0.6792601223521413
+Random Forest,Modèle final,14,MAE,0.5841018190305853
+Random Forest,Modèle final,14,RMSE,0.7757045002038806
+Random Forest,Modèle final,14,R2,0.5112402224734172
+Random Forest,Modèle final,15,MAE,0.3914163361473706
+Random Forest,Modèle final,15,RMSE,0.5244270788494554
+Random Forest,Modèle final,15,R2,0.8026993285200197
+Random Forest,Modèle final,16,MAE,0.47764839995215547
+Random Forest,Modèle final,16,RMSE,0.6984274354910696
+Random Forest,Modèle final,16,R2,0.5667610155963593
+Random Forest,Modèle final,17,MAE,0.5014644725246014
+Random Forest,Modèle final,17,RMSE,0.6288631641888311
+Random Forest,Modèle final,17,R2,0.5416708114647004
+Random Forest,Modèle final,18,MAE,0.5598078404210728
+Random Forest,Modèle final,18,RMSE,0.6891765650821164
+Random Forest,Modèle final,18,R2,0.6004505776105453
+Random Forest,Modèle final,19,MAE,0.6049774082277868
+Random Forest,Modèle final,19,RMSE,0.9360014969390017
+Random Forest,Modèle final,19,R2,0.5029513596554986
+Random Forest,Modèle final,20,MAE,0.48071164790209714
+Random Forest,Modèle final,20,RMSE,0.761537192275063
+Random Forest,Modèle final,20,R2,0.5745868892534607
+Random Forest,Modèle final,21,MAE,0.5550167451571411
+Random Forest,Modèle final,21,RMSE,0.7772934166894113
+Random Forest,Modèle final,21,R2,0.6337174938953131
+Random Forest,Modèle final,22,MAE,0.520829739483314
+Random Forest,Modèle final,22,RMSE,0.6926636052601732
+Random Forest,Modèle final,22,R2,0.5321770205243838
+Random Forest,Modèle final,23,MAE,0.5332037041684381
+Random Forest,Modèle final,23,RMSE,0.6492050377806363
+Random Forest,Modèle final,23,R2,0.6075565374902381
+Random Forest,Modèle final,24,MAE,0.4361361287968727
+Random Forest,Modèle final,24,RMSE,0.6074365405593056
+Random Forest,Modèle final,24,R2,0.6880602705479282
+Random Forest,Modèle final,25,MAE,0.3927057062676209
+Random Forest,Modèle final,25,RMSE,0.473696319940626
+Random Forest,Modèle final,25,R2,0.826134059687418
+Random Forest,Modèle final,26,MAE,0.5627450960789211
+Random Forest,Modèle final,26,RMSE,0.7247299824628761
+Random Forest,Modèle final,26,R2,0.5447485939960897
+Random Forest,Modèle final,27,MAE,0.5283596805083801
+Random Forest,Modèle final,27,RMSE,0.7944212682118985
+Random Forest,Modèle final,27,R2,0.5707928825111457
+Random Forest,Modèle final,28,MAE,0.5373765962420717
+Random Forest,Modèle final,28,RMSE,0.7967231155907033
+Random Forest,Modèle final,28,R2,0.47167436764700954
+Random Forest,Modèle final,29,MAE,0.46985657829067445
+Random Forest,Modèle final,29,RMSE,0.6169586707674456
+Random Forest,Modèle final,29,R2,0.629186519627494
+Random Forest,Modèle final,30,MAE,0.4822999196992813
+Random Forest,Modèle final,30,RMSE,0.6091149727772938
+Random Forest,Modèle final,30,R2,0.5981969794712243
+Random Forest,Modèle final,31,MAE,0.5648578482668678
+Random Forest,Modèle final,31,RMSE,0.8714494509160813
+Random Forest,Modèle final,31,R2,0.536256295277338
+Random Forest,Modèle final,32,MAE,0.4705848089008694
+Random Forest,Modèle final,32,RMSE,0.6255287961291845
+Random Forest,Modèle final,32,R2,0.7241192832469276
+Random Forest,Modèle final,33,MAE,0.48452193977344493
+Random Forest,Modèle final,33,RMSE,0.570339197678727
+Random Forest,Modèle final,33,R2,0.7288638203648301
+Random Forest,Modèle final,34,MAE,0.5186233604041555
+Random Forest,Modèle final,34,RMSE,0.7192048107319697
+Random Forest,Modèle final,34,R2,0.575560551057376
+Random Forest,Modèle final,35,MAE,0.5579294042087539
+Random Forest,Modèle final,35,RMSE,0.8603725267742465
+Random Forest,Modèle final,35,R2,0.6146001851586472
+Random Forest,Modèle final,36,MAE,0.46178670589736004
+Random Forest,Modèle final,36,RMSE,0.596534684003452
+Random Forest,Modèle final,36,R2,0.5912662152760045
+Random Forest,Modèle final,37,MAE,0.5628715348641778
+Random Forest,Modèle final,37,RMSE,0.7195279131237518
+Random Forest,Modèle final,37,R2,0.523525601566946
+Random Forest,Modèle final,38,MAE,0.5019317153867211
+Random Forest,Modèle final,38,RMSE,0.6300174653063946
+Random Forest,Modèle final,38,R2,0.6752366646101522
+Random Forest,Modèle final,39,MAE,0.4217660766784929
+Random Forest,Modèle final,39,RMSE,0.5937359300564637
+Random Forest,Modèle final,39,R2,0.7217942409888287
+Random Forest,Modèle final,40,MAE,0.5861948325833424
+Random Forest,Modèle final,40,RMSE,0.75234074427956
+Random Forest,Modèle final,40,R2,0.5273051395303882
+Random Forest,Modèle final,41,MAE,0.313119196567992
+Random Forest,Modèle final,41,RMSE,0.4012700490628205
+Random Forest,Modèle final,41,R2,0.8609751296966454
+Random Forest,Modèle final,42,MAE,0.6293151610783848
+Random Forest,Modèle final,42,RMSE,0.8968200188514504
+Random Forest,Modèle final,42,R2,0.5112764341293289
+Random Forest,Modèle final,43,MAE,0.5536679969453813
+Random Forest,Modèle final,43,RMSE,0.7299799321469223
+Random Forest,Modèle final,43,R2,0.5882851767985846
+Random Forest,Modèle final,44,MAE,0.3795927406539816
+Random Forest,Modèle final,44,RMSE,0.4687621002088555
+Random Forest,Modèle final,44,R2,0.799149094240287
+Random Forest,Modèle final,45,MAE,0.6153119570934834
+Random Forest,Modèle final,45,RMSE,0.8313820795639321
+Random Forest,Modèle final,45,R2,0.5047104488961616
+Random Forest,Modèle final,46,MAE,0.3735004183199933
+Random Forest,Modèle final,46,RMSE,0.4718499929018904
+Random Forest,Modèle final,46,R2,0.7972634105112556
+Random Forest,Modèle final,47,MAE,0.4935999717952544
+Random Forest,Modèle final,47,RMSE,0.5903227465768577
+Random Forest,Modèle final,47,R2,0.6348657006211031
+Random Forest,Modèle final,48,MAE,0.523102589363894
+Random Forest,Modèle final,48,RMSE,0.7362099210475944
+Random Forest,Modèle final,48,R2,0.5319825055801053
+Random Forest,Modèle final,49,MAE,0.515534036692905
+Random Forest,Modèle final,49,RMSE,0.8403803423496872
+Random Forest,Modèle final,49,R2,0.5601633522272731
+Random Forest,Modèle final + gouvernance,0,MAE,0.5725333519226202
+Random Forest,Modèle final + gouvernance,0,RMSE,0.7888564085495994
+Random Forest,Modèle final + gouvernance,0,R2,0.4392734025408702
+Random Forest,Modèle final + gouvernance,1,MAE,0.44337532954516673
+Random Forest,Modèle final + gouvernance,1,RMSE,0.5781258742146436
+Random Forest,Modèle final + gouvernance,1,R2,0.7551573448101537
+Random Forest,Modèle final + gouvernance,2,MAE,0.4889164240026258
+Random Forest,Modèle final + gouvernance,2,RMSE,0.6384035880712159
+Random Forest,Modèle final + gouvernance,2,R2,0.6087984291165969
+Random Forest,Modèle final + gouvernance,3,MAE,0.41983359126601366
+Random Forest,Modèle final + gouvernance,3,RMSE,0.5758187394509033
+Random Forest,Modèle final + gouvernance,3,R2,0.7363972958719919
+Random Forest,Modèle final + gouvernance,4,MAE,0.5205989478928154
+Random Forest,Modèle final + gouvernance,4,RMSE,0.8288356520469459
+Random Forest,Modèle final + gouvernance,4,R2,0.5653131343024794
+Random Forest,Modèle final + gouvernance,5,MAE,0.6053777725649356
+Random Forest,Modèle final + gouvernance,5,RMSE,0.8695749171862203
+Random Forest,Modèle final + gouvernance,5,R2,0.6169562398027466
+Random Forest,Modèle final + gouvernance,6,MAE,0.5303134269769505
+Random Forest,Modèle final + gouvernance,6,RMSE,0.6854447791347009
+Random Forest,Modèle final + gouvernance,6,R2,0.6189361587799005
+Random Forest,Modèle final + gouvernance,7,MAE,0.3996944737126861
+Random Forest,Modèle final + gouvernance,7,RMSE,0.5558802944303648
+Random Forest,Modèle final + gouvernance,7,R2,0.7196387858955311
+Random Forest,Modèle final + gouvernance,8,MAE,0.4597060869154994
+Random Forest,Modèle final + gouvernance,8,RMSE,0.5870343874464191
+Random Forest,Modèle final + gouvernance,8,R2,0.7058011622313778
+Random Forest,Modèle final + gouvernance,9,MAE,0.5259668723676716
+Random Forest,Modèle final + gouvernance,9,RMSE,0.7690517401507888
+Random Forest,Modèle final + gouvernance,9,R2,0.35741105392457806
+Random Forest,Modèle final + gouvernance,10,MAE,0.6072298522838275
+Random Forest,Modèle final + gouvernance,10,RMSE,0.9945350686573029
+Random Forest,Modèle final + gouvernance,10,R2,0.39883960822377085
+Random Forest,Modèle final + gouvernance,11,MAE,0.40200885301401923
+Random Forest,Modèle final + gouvernance,11,RMSE,0.547241087845589
+Random Forest,Modèle final + gouvernance,11,R2,0.7735280326881576
+Random Forest,Modèle final + gouvernance,12,MAE,0.45946339076115394
+Random Forest,Modèle final + gouvernance,12,RMSE,0.63955173690276
+Random Forest,Modèle final + gouvernance,12,R2,0.5108504684348267
+Random Forest,Modèle final + gouvernance,13,MAE,0.452653558582223
+Random Forest,Modèle final + gouvernance,13,RMSE,0.6303315356451443
+Random Forest,Modèle final + gouvernance,13,R2,0.6436249665973455
+Random Forest,Modèle final + gouvernance,14,MAE,0.5710757474561838
+Random Forest,Modèle final + gouvernance,14,RMSE,0.7406795944193223
+Random Forest,Modèle final + gouvernance,14,R2,0.5543811057459653
+Random Forest,Modèle final + gouvernance,15,MAE,0.3669069368111522
+Random Forest,Modèle final + gouvernance,15,RMSE,0.5032081263924094
+Random Forest,Modèle final + gouvernance,15,R2,0.8183423722826815
+Random Forest,Modèle final + gouvernance,16,MAE,0.4749729626151615
+Random Forest,Modèle final + gouvernance,16,RMSE,0.7863767344483619
+Random Forest,Modèle final + gouvernance,16,R2,0.45078010668115276
+Random Forest,Modèle final + gouvernance,17,MAE,0.5051741349646528
+Random Forest,Modèle final + gouvernance,17,RMSE,0.6121791269824028
+Random Forest,Modèle final + gouvernance,17,R2,0.565667589467943
+Random Forest,Modèle final + gouvernance,18,MAE,0.550257207991434
+Random Forest,Modèle final + gouvernance,18,RMSE,0.6774113896513088
+Random Forest,Modèle final + gouvernance,18,R2,0.6139758338171956
+Random Forest,Modèle final + gouvernance,19,MAE,0.5607521620724091
+Random Forest,Modèle final + gouvernance,19,RMSE,0.8972969783627377
+Random Forest,Modèle final + gouvernance,19,R2,0.5432082894905685
+Random Forest,Modèle final + gouvernance,20,MAE,0.4709227877359678
+Random Forest,Modèle final + gouvernance,20,RMSE,0.7628132429705461
+Random Forest,Modèle final + gouvernance,20,R2,0.5731600291952843
+Random Forest,Modèle final + gouvernance,21,MAE,0.5222526982163436
+Random Forest,Modèle final + gouvernance,21,RMSE,0.7489919709989076
+Random Forest,Modèle final + gouvernance,21,R2,0.6599047843465224
+Random Forest,Modèle final + gouvernance,22,MAE,0.5473778339147463
+Random Forest,Modèle final + gouvernance,22,RMSE,0.7692039098297316
+Random Forest,Modèle final + gouvernance,22,R2,0.4230744421861684
+Random Forest,Modèle final + gouvernance,23,MAE,0.48576970740313324
+Random Forest,Modèle final + gouvernance,23,RMSE,0.6001637496758463
+Random Forest,Modèle final + gouvernance,23,R2,0.6646078784780756
+Random Forest,Modèle final + gouvernance,24,MAE,0.4494559158479456
+Random Forest,Modèle final + gouvernance,24,RMSE,0.6110300802947688
+Random Forest,Modèle final + gouvernance,24,R2,0.6843585387291238
+Random Forest,Modèle final + gouvernance,25,MAE,0.41062701333943735
+Random Forest,Modèle final + gouvernance,25,RMSE,0.519145270324797
+Random Forest,Modèle final + gouvernance,25,R2,0.791170285110858
+Random Forest,Modèle final + gouvernance,26,MAE,0.5215902915314559
+Random Forest,Modèle final + gouvernance,26,RMSE,0.68093762761151
+Random Forest,Modèle final + gouvernance,26,R2,0.5981041654074465
+Random Forest,Modèle final + gouvernance,27,MAE,0.5268803211851363
+Random Forest,Modèle final + gouvernance,27,RMSE,0.759475940349657
+Random Forest,Modèle final + gouvernance,27,R2,0.6077226519327084
+Random Forest,Modèle final + gouvernance,28,MAE,0.543205746774298
+Random Forest,Modèle final + gouvernance,28,RMSE,0.835925901599136
+Random Forest,Modèle final + gouvernance,28,R2,0.41840266112421065
+Random Forest,Modèle final + gouvernance,29,MAE,0.43925082395841647
+Random Forest,Modèle final + gouvernance,29,RMSE,0.593743986721902
+Random Forest,Modèle final + gouvernance,29,R2,0.656567162604671
+Random Forest,Modèle final + gouvernance,30,MAE,0.40849400915001705
+Random Forest,Modèle final + gouvernance,30,RMSE,0.5542638049072656
+Random Forest,Modèle final + gouvernance,30,R2,0.6673039194376196
+Random Forest,Modèle final + gouvernance,31,MAE,0.5355036667085794
+Random Forest,Modèle final + gouvernance,31,RMSE,0.8418334307503035
+Random Forest,Modèle final + gouvernance,31,R2,0.5672411453260566
+Random Forest,Modèle final + gouvernance,32,MAE,0.4578447659497585
+Random Forest,Modèle final + gouvernance,32,RMSE,0.6128764093082164
+Random Forest,Modèle final + gouvernance,32,R2,0.735166731125031
+Random Forest,Modèle final + gouvernance,33,MAE,0.47010447467953453
+Random Forest,Modèle final + gouvernance,33,RMSE,0.5606741695283177
+Random Forest,Modèle final + gouvernance,33,R2,0.7379753626047147
+Random Forest,Modèle final + gouvernance,34,MAE,0.5049418077770893
+Random Forest,Modèle final + gouvernance,34,RMSE,0.727285386335094
+Random Forest,Modèle final + gouvernance,34,R2,0.5659694522018427
+Random Forest,Modèle final + gouvernance,35,MAE,0.583321823342029
+Random Forest,Modèle final + gouvernance,35,RMSE,0.917450942169415
+Random Forest,Modèle final + gouvernance,35,R2,0.5617679510331275
+Random Forest,Modèle final + gouvernance,36,MAE,0.46604226869299414
+Random Forest,Modèle final + gouvernance,36,RMSE,0.6071636002266732
+Random Forest,Modèle final + gouvernance,36,R2,0.5765710064243129
+Random Forest,Modèle final + gouvernance,37,MAE,0.4967248971737074
+Random Forest,Modèle final + gouvernance,37,RMSE,0.6631520982860093
+Random Forest,Modèle final + gouvernance,37,R2,0.5952651756753722
+Random Forest,Modèle final + gouvernance,38,MAE,0.5014385705882239
+Random Forest,Modèle final + gouvernance,38,RMSE,0.6394317338178985
+Random Forest,Modèle final + gouvernance,38,R2,0.6654583564053463
+Random Forest,Modèle final + gouvernance,39,MAE,0.38891424826533594
+Random Forest,Modèle final + gouvernance,39,RMSE,0.5729807935857827
+Random Forest,Modèle final + gouvernance,39,R2,0.7409046714659726
+Random Forest,Modèle final + gouvernance,40,MAE,0.5866419642257744
+Random Forest,Modèle final + gouvernance,40,RMSE,0.7836882414500606
+Random Forest,Modèle final + gouvernance,40,R2,0.4870932946550679
+Random Forest,Modèle final + gouvernance,41,MAE,0.3179079899790997
+Random Forest,Modèle final + gouvernance,41,RMSE,0.44111298625027395
+Random Forest,Modèle final + gouvernance,41,R2,0.8319963584067425
+Random Forest,Modèle final + gouvernance,42,MAE,0.6272974588332165
+Random Forest,Modèle final + gouvernance,42,RMSE,0.8911191959253842
+Random Forest,Modèle final + gouvernance,42,R2,0.5174700318506289
+Random Forest,Modèle final + gouvernance,43,MAE,0.5295065969417567
+Random Forest,Modèle final + gouvernance,43,RMSE,0.6786010127628564
+Random Forest,Modèle final + gouvernance,43,R2,0.6442018643141172
+Random Forest,Modèle final + gouvernance,44,MAE,0.3394361141429444
+Random Forest,Modèle final + gouvernance,44,RMSE,0.4661073412288689
+Random Forest,Modèle final + gouvernance,44,R2,0.8014176260550093
+Random Forest,Modèle final + gouvernance,45,MAE,0.5684485321352507
+Random Forest,Modèle final + gouvernance,45,RMSE,0.7980668402374036
+Random Forest,Modèle final + gouvernance,45,R2,0.5436097264870703
+Random Forest,Modèle final + gouvernance,46,MAE,0.38700866362574193
+Random Forest,Modèle final + gouvernance,46,RMSE,0.5140764160092611
+Random Forest,Modèle final + gouvernance,46,R2,0.7593534767683919
+Random Forest,Modèle final + gouvernance,47,MAE,0.48207490721290197
+Random Forest,Modèle final + gouvernance,47,RMSE,0.5886614661894992
+Random Forest,Modèle final + gouvernance,47,R2,0.6369179234887602
+Random Forest,Modèle final + gouvernance,48,MAE,0.523896144448464
+Random Forest,Modèle final + gouvernance,48,RMSE,0.7118882002105945
+Random Forest,Modèle final + gouvernance,48,R2,0.5623949301949224
+Random Forest,Modèle final + gouvernance,49,MAE,0.5166901229532919
+Random Forest,Modèle final + gouvernance,49,RMSE,0.8379124110231597
+Random Forest,Modèle final + gouvernance,49,R2,0.5627428813320394
+Random Forest,PIB + gouvernance,0,MAE,0.5859950524352555
+Random Forest,PIB + gouvernance,0,RMSE,0.8515083966356438
+Random Forest,PIB + gouvernance,0,R2,0.3466692332547745
+Random Forest,PIB + gouvernance,1,MAE,0.3882411929312069
+Random Forest,PIB + gouvernance,1,RMSE,0.5578186863263419
+Random Forest,PIB + gouvernance,1,R2,0.7720558850518402
+Random Forest,PIB + gouvernance,2,MAE,0.5079433670762186
+Random Forest,PIB + gouvernance,2,RMSE,0.655828894963406
+Random Forest,PIB + gouvernance,2,R2,0.5871511816071102
+Random Forest,PIB + gouvernance,3,MAE,0.46695628084922747
+Random Forest,PIB + gouvernance,3,RMSE,0.6355237757063369
+Random Forest,PIB + gouvernance,3,R2,0.678898837759357
+Random Forest,PIB + gouvernance,4,MAE,0.5345617950808832
+Random Forest,PIB + gouvernance,4,RMSE,0.8360877730738184
+Random Forest,PIB + gouvernance,4,R2,0.5576730354587194
+Random Forest,PIB + gouvernance,5,MAE,0.6526153607482339
+Random Forest,PIB + gouvernance,5,RMSE,0.8999219556487525
+Random Forest,PIB + gouvernance,5,R2,0.5897542609605599
+Random Forest,PIB + gouvernance,6,MAE,0.5034496974683365
+Random Forest,PIB + gouvernance,6,RMSE,0.647694544099885
+Random Forest,PIB + gouvernance,6,R2,0.6597538084601635
+Random Forest,PIB + gouvernance,7,MAE,0.41512177018651863
+Random Forest,PIB + gouvernance,7,RMSE,0.5573049199484922
+Random Forest,PIB + gouvernance,7,R2,0.7181999093851656
+Random Forest,PIB + gouvernance,8,MAE,0.4279583866834314
+Random Forest,PIB + gouvernance,8,RMSE,0.5577394875884317
+Random Forest,PIB + gouvernance,8,R2,0.7344314422629855
+Random Forest,PIB + gouvernance,9,MAE,0.5586334036640564
+Random Forest,PIB + gouvernance,9,RMSE,0.8274417104376294
+Random Forest,PIB + gouvernance,9,R2,0.2561301595950535
+Random Forest,PIB + gouvernance,10,MAE,0.711043080870981
+Random Forest,PIB + gouvernance,10,RMSE,1.064307876925601
+Random Forest,PIB + gouvernance,10,R2,0.31153049494059026
+Random Forest,PIB + gouvernance,11,MAE,0.41351622840129193
+Random Forest,PIB + gouvernance,11,RMSE,0.5589279088808208
+Random Forest,PIB + gouvernance,11,R2,0.763751723386444
+Random Forest,PIB + gouvernance,12,MAE,0.4895085230711814
+Random Forest,PIB + gouvernance,12,RMSE,0.6869711526728229
+Random Forest,PIB + gouvernance,12,R2,0.43562563691668144
+Random Forest,PIB + gouvernance,13,MAE,0.48341713743689246
+Random Forest,PIB + gouvernance,13,RMSE,0.6831309902902344
+Random Forest,PIB + gouvernance,13,R2,0.5814212515337083
+Random Forest,PIB + gouvernance,14,MAE,0.5073574362956962
+Random Forest,PIB + gouvernance,14,RMSE,0.6794360098772046
+Random Forest,PIB + gouvernance,14,R2,0.6250270342865912
+Random Forest,PIB + gouvernance,15,MAE,0.37598136433936397
+Random Forest,PIB + gouvernance,15,RMSE,0.5421396058526347
+Random Forest,PIB + gouvernance,15,R2,0.7891465954186897
+Random Forest,PIB + gouvernance,16,MAE,0.5512024436850513
+Random Forest,PIB + gouvernance,16,RMSE,0.8911803406021936
+Random Forest,PIB + gouvernance,16,R2,0.2946313686580536
+Random Forest,PIB + gouvernance,17,MAE,0.4537709230132896
+Random Forest,PIB + gouvernance,17,RMSE,0.5915489291982859
+Random Forest,PIB + gouvernance,17,R2,0.5944479995378469
+Random Forest,PIB + gouvernance,18,MAE,0.6190829190212078
+Random Forest,PIB + gouvernance,18,RMSE,0.7883171381987794
+Random Forest,PIB + gouvernance,18,R2,0.4772290556412855
+Random Forest,PIB + gouvernance,19,MAE,0.5916461536587915
+Random Forest,PIB + gouvernance,19,RMSE,0.8454889999708136
+Random Forest,PIB + gouvernance,19,R2,0.5944338249320522
+Random Forest,PIB + gouvernance,20,MAE,0.5440860772336923
+Random Forest,PIB + gouvernance,20,RMSE,0.8151204346646244
+Random Forest,PIB + gouvernance,20,R2,0.5126149596143947
+Random Forest,PIB + gouvernance,21,MAE,0.5379421684394151
+Random Forest,PIB + gouvernance,21,RMSE,0.7150302790339078
+Random Forest,PIB + gouvernance,21,R2,0.6900475567087295
+Random Forest,PIB + gouvernance,22,MAE,0.6091047887516698
+Random Forest,PIB + gouvernance,22,RMSE,0.8585385211776531
+Random Forest,PIB + gouvernance,22,R2,0.28128553692054925
+Random Forest,PIB + gouvernance,23,MAE,0.44019788239538277
+Random Forest,PIB + gouvernance,23,RMSE,0.5629068054733521
+Random Forest,PIB + gouvernance,23,R2,0.7049563073831967
+Random Forest,PIB + gouvernance,24,MAE,0.46483717313611583
+Random Forest,PIB + gouvernance,24,RMSE,0.6606648227768088
+Random Forest,PIB + gouvernance,24,R2,0.6309958667130475
+Random Forest,PIB + gouvernance,25,MAE,0.47501563723683665
+Random Forest,PIB + gouvernance,25,RMSE,0.6029264738816312
+Random Forest,PIB + gouvernance,25,R2,0.7183283099971294
+Random Forest,PIB + gouvernance,26,MAE,0.4817099423564951
+Random Forest,PIB + gouvernance,26,RMSE,0.6117330114514644
+Random Forest,PIB + gouvernance,26,R2,0.6756434495497993
+Random Forest,PIB + gouvernance,27,MAE,0.576176463700859
+Random Forest,PIB + gouvernance,27,RMSE,0.8165489256007004
+Random Forest,PIB + gouvernance,27,R2,0.5465497835813934
+Random Forest,PIB + gouvernance,28,MAE,0.5585187427363822
+Random Forest,PIB + gouvernance,28,RMSE,0.8677096982911481
+Random Forest,PIB + gouvernance,28,R2,0.3733345530688841
+Random Forest,PIB + gouvernance,29,MAE,0.5291060569499461
+Random Forest,PIB + gouvernance,29,RMSE,0.7102121586402428
+Random Forest,PIB + gouvernance,29,R2,0.5086176244506839
+Random Forest,PIB + gouvernance,30,MAE,0.4450623597576503
+Random Forest,PIB + gouvernance,30,RMSE,0.6062468340940121
+Random Forest,PIB + gouvernance,30,R2,0.6019720092194742
+Random Forest,PIB + gouvernance,31,MAE,0.5206934192200513
+Random Forest,PIB + gouvernance,31,RMSE,0.7995649597363198
+Random Forest,PIB + gouvernance,31,R2,0.609607799471577
+Random Forest,PIB + gouvernance,32,MAE,0.4668379929011605
+Random Forest,PIB + gouvernance,32,RMSE,0.6514900601720651
+Random Forest,PIB + gouvernance,32,R2,0.7007443771111768
+Random Forest,PIB + gouvernance,33,MAE,0.48971215209522256
+Random Forest,PIB + gouvernance,33,RMSE,0.6456411165228098
+Random Forest,PIB + gouvernance,33,R2,0.6525411391204805
+Random Forest,PIB + gouvernance,34,MAE,0.5328717995699713
+Random Forest,PIB + gouvernance,34,RMSE,0.7634600110709143
+Random Forest,PIB + gouvernance,34,R2,0.5217189619797264
+Random Forest,PIB + gouvernance,35,MAE,0.6080888665388308
+Random Forest,PIB + gouvernance,35,RMSE,0.9412491848654615
+Random Forest,PIB + gouvernance,35,R2,0.5387380192691091
+Random Forest,PIB + gouvernance,36,MAE,0.5228169744768646
+Random Forest,PIB + gouvernance,36,RMSE,0.6944508161972193
+Random Forest,PIB + gouvernance,36,R2,0.4460735252019806
+Random Forest,PIB + gouvernance,37,MAE,0.5019840996343685
+Random Forest,PIB + gouvernance,37,RMSE,0.6429182957480447
+Random Forest,PIB + gouvernance,37,R2,0.6195865644449494
+Random Forest,PIB + gouvernance,38,MAE,0.4851844976674666
+Random Forest,PIB + gouvernance,38,RMSE,0.6167310937854061
+Random Forest,PIB + gouvernance,38,R2,0.6887900279804443
+Random Forest,PIB + gouvernance,39,MAE,0.38899029062489215
+Random Forest,PIB + gouvernance,39,RMSE,0.5839681174434217
+Random Forest,PIB + gouvernance,39,R2,0.7308727167980134
+Random Forest,PIB + gouvernance,40,MAE,0.6042945414624257
+Random Forest,PIB + gouvernance,40,RMSE,0.868178572956527
+Random Forest,PIB + gouvernance,40,R2,0.37053752996097333
+Random Forest,PIB + gouvernance,41,MAE,0.39115035378299834
+Random Forest,PIB + gouvernance,41,RMSE,0.5131559925712472
+Random Forest,PIB + gouvernance,41,R2,0.7726380327644994
+Random Forest,PIB + gouvernance,42,MAE,0.6561527635102447
+Random Forest,PIB + gouvernance,42,RMSE,0.9301804281975314
+Random Forest,PIB + gouvernance,42,R2,0.4742405499394894
+Random Forest,PIB + gouvernance,43,MAE,0.6123137011612912
+Random Forest,PIB + gouvernance,43,RMSE,0.7479405053925523
+Random Forest,PIB + gouvernance,43,R2,0.5677761095114062
+Random Forest,PIB + gouvernance,44,MAE,0.3671719317695705
+Random Forest,PIB + gouvernance,44,RMSE,0.46467998779615405
+Random Forest,PIB + gouvernance,44,R2,0.8026319954073654
+Random Forest,PIB + gouvernance,45,MAE,0.6001261988665021
+Random Forest,PIB + gouvernance,45,RMSE,0.8595699687919092
+Random Forest,PIB + gouvernance,45,R2,0.4705556528623783
+Random Forest,PIB + gouvernance,46,MAE,0.4398247543400099
+Random Forest,PIB + gouvernance,46,RMSE,0.6113858468771483
+Random Forest,PIB + gouvernance,46,R2,0.6596270862100647
+Random Forest,PIB + gouvernance,47,MAE,0.501410243700935
+Random Forest,PIB + gouvernance,47,RMSE,0.6511516076704518
+Random Forest,PIB + gouvernance,47,R2,0.5557393688465222
+Random Forest,PIB + gouvernance,48,MAE,0.5717579142782497
+Random Forest,PIB + gouvernance,48,RMSE,0.7663631494634141
+Random Forest,PIB + gouvernance,48,R2,0.4928598636666721
+Random Forest,PIB + gouvernance,49,MAE,0.4889550119054315
+Random Forest,PIB + gouvernance,49,RMSE,0.7813638004851207
+Random Forest,PIB + gouvernance,49,R2,0.6197701427678062

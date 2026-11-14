@@ -1,0 +1,9 @@
+variable,coefficient
+log_pib,0.41849950334566877
+internet_pct,0.3808149988036595
+depenses_sante_pct_pib,0.07485692894483949
+depenses_education_pct_pib,0.1520387794443733
+chomage_pct,-0.324122372959988
+controle_corruption,0.23661569794752849
+stabilite_politique,0.18898779507521551
+etat_de_droit,-0.34074161140397846

@@ -1,0 +1,21 @@
+# Environnement virtuel (se recrée avec requirements.txt)
+.venv/
+
+# Base SQLite : recréée en une seconde par src/04_base_sqlite.py
+db/*.db
+
+# Fichiers temporaires Python, Jupyter et pytest
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Fichiers système et éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Remarque : data/ et reports/ sont versionnés volontairement.
+# Les sources ont changé pendant le projet (API World Bank en erreur 502,
+# indicateurs WGI archivés) : garder un instantané rend les résultats reproductibles.

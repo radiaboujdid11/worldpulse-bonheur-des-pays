@@ -1,0 +1,71 @@
+modele,pli,variable,importance
+Régression — variables retenues,0,log_pib,0.184854654214863
+Régression — variables retenues,0,esperance_vie,0.0
+Régression — variables retenues,0,internet_pct,0.047569031746114
+Régression — variables retenues,0,urbanisation_pct,0.0
+Régression — variables retenues,0,depenses_sante_pct_pib,0.004636599888440614
+Régression — variables retenues,0,depenses_education_pct_pib,0.012391996114666685
+Régression — variables retenues,0,chomage_pct,0.12791586166017518
+Random Forest,0,log_pib,0.06370203551371417
+Random Forest,0,esperance_vie,0.07832417533255995
+Random Forest,0,internet_pct,-0.022171598579790223
+Random Forest,0,urbanisation_pct,-0.025740802806800012
+Random Forest,0,depenses_sante_pct_pib,0.004896196652804696
+Random Forest,0,depenses_education_pct_pib,0.0016004785675235408
+Random Forest,0,chomage_pct,0.05371764585700379
+Régression — variables retenues,1,log_pib,0.30240227314924073
+Régression — variables retenues,1,esperance_vie,0.0
+Régression — variables retenues,1,internet_pct,0.30926131472653967
+Régression — variables retenues,1,urbanisation_pct,0.0
+Régression — variables retenues,1,depenses_sante_pct_pib,0.011333245970757166
+Régression — variables retenues,1,depenses_education_pct_pib,0.06529456770304684
+Régression — variables retenues,1,chomage_pct,0.2176375547442973
+Random Forest,1,log_pib,0.1826247964976617
+Random Forest,1,esperance_vie,0.18473365355379462
+Random Forest,1,internet_pct,0.11681656882925698
+Random Forest,1,urbanisation_pct,0.005024606724917809
+Random Forest,1,depenses_sante_pct_pib,-0.017714166993108214
+Random Forest,1,depenses_education_pct_pib,0.03831515116759013
+Random Forest,1,chomage_pct,0.052010977744406724
+Régression — variables retenues,2,log_pib,0.20422720412173462
+Régression — variables retenues,2,esperance_vie,0.0
+Régression — variables retenues,2,internet_pct,0.1697635909500492
+Régression — variables retenues,2,urbanisation_pct,0.0
+Régression — variables retenues,2,depenses_sante_pct_pib,0.01749024015894868
+Régression — variables retenues,2,depenses_education_pct_pib,0.0564419753190319
+Régression — variables retenues,2,chomage_pct,0.04238870662301839
+Random Forest,2,log_pib,0.09349074279926536
+Random Forest,2,esperance_vie,0.1566250060055406
+Random Forest,2,internet_pct,0.04513570026106092
+Random Forest,2,urbanisation_pct,-0.009349919001397856
+Random Forest,2,depenses_sante_pct_pib,-0.004720120438341953
+Random Forest,2,depenses_education_pct_pib,0.036084406699727505
+Random Forest,2,chomage_pct,0.0374443293318153
+Régression — variables retenues,3,log_pib,0.3403249144076712
+Régression — variables retenues,3,esperance_vie,0.0
+Régression — variables retenues,3,internet_pct,0.23726133732568527
+Régression — variables retenues,3,urbanisation_pct,0.0
+Régression — variables retenues,3,depenses_sante_pct_pib,0.014319090693712119
+Régression — variables retenues,3,depenses_education_pct_pib,0.05747515972551986
+Régression — variables retenues,3,chomage_pct,0.08023168478651668
+Random Forest,3,log_pib,0.1559313831442655
+Random Forest,3,esperance_vie,0.2502713517280713
+Random Forest,3,internet_pct,0.017275784150853107
+Random Forest,3,urbanisation_pct,-0.0021429105474311243
+Random Forest,3,depenses_sante_pct_pib,0.010311695002284172
+Random Forest,3,depenses_education_pct_pib,0.027990371921484698
+Random Forest,3,chomage_pct,0.05671326263238664
+Régression — variables retenues,4,log_pib,0.3134143106900745
+Régression — variables retenues,4,esperance_vie,0.0
+Régression — variables retenues,4,internet_pct,0.2045135870245887
+Régression — variables retenues,4,urbanisation_pct,0.0
+Régression — variables retenues,4,depenses_sante_pct_pib,-0.02270156301969514
+Régression — variables retenues,4,depenses_education_pct_pib,0.026620202958419475
+Régression — variables retenues,4,chomage_pct,0.22968432161087063
+Random Forest,4,log_pib,0.15930463245384868
+Random Forest,4,esperance_vie,0.1934622130527967
+Random Forest,4,internet_pct,0.07193654245471583
+Random Forest,4,urbanisation_pct,0.009708840566434892
+Random Forest,4,depenses_sante_pct_pib,0.0021952636817127594
+Random Forest,4,depenses_education_pct_pib,0.011131498117777479
+Random Forest,4,chomage_pct,0.06768574321122361

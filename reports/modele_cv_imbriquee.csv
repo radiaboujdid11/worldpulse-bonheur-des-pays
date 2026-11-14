@@ -1,0 +1,251 @@
+pli,procedure,variables,nb_variables,MAE,RMSE,R2
+0,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.5226585486859368,0.7153809021664829,0.5388630477714813
+0,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.49176236632174164,0.6869175351178383,0.5748282050751485
+0,BIC minimal,log_pib + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,4,0.526757993430904,0.7112045425137923,0.5442315225970317
+0,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4859451576064657,0.6731143950731558,0.5917436038180941
+0,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.483896403527395,0.6689186285362128,0.5968173619278386
+1,Règle de l'écart-type,log_pib + internet_pct + chomage_pct,3,0.4519108128801874,0.5842303421340316,0.7499594279916323
+1,RMSE minimale,log_pib + internet_pct + urbanisation_pct + depenses_education_pct_pib + chomage_pct,5,0.4559417438868265,0.6038769716716337,0.7328598263777565
+1,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.4259463073957715,0.5701256905265882,0.7618867901757814
+1,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4544269919303947,0.602031337781164,0.7344902562021123
+1,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4506610452708914,0.6036434386865002,0.7330664048103481
+2,Règle de l'écart-type,internet_pct + chomage_pct,2,0.6170705085444076,0.7389334123803716,0.47589227547361945
+2,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.5255229709206024,0.6393814960306825,0.6075990244155064
+2,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.5223480016167191,0.6314356483707131,0.6172914673142995
+2,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.5270586347126579,0.6273216433609935,0.6222621583232261
+2,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5444099542285092,0.646533171042396,0.5987716840527972
+3,Règle de l'écart-type,log_pib + chomage_pct,2,0.49250649359632004,0.6400340320320065,0.6743250117279755
+3,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.4399192204292564,0.576620725355979,0.7356625060535873
+3,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.42967560577968666,0.5669847537581215,0.7444234320295858
+3,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4466457202655032,0.5632656690021783,0.7477652979856584
+3,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4393897721759505,0.5596563854208418,0.7509874712486755
+4,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.523065309742168,0.7472041140063282,0.6467207098255674
+4,RMSE minimale,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.5013163625050607,0.7759036335552617,0.6190611716867934
+4,BIC minimal,log_pib + depenses_education_pct_pib + chomage_pct,3,0.523065309742168,0.7472041140063282,0.6467207098255674
+4,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4977561681664719,0.7734387617600325,0.621477641701603
+4,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4979502181136899,0.773118503756139,0.6217910465193945
+5,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.5279589240412024,0.7348527965535071,0.7264510283738592
+5,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.5027106437047673,0.699970292466791,0.7518046727492615
+5,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.5013118616258746,0.7794796469866385,0.6922174854223915
+5,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.4925013830233273,0.7474105431571361,0.7170219017742554
+5,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.48452786939421544,0.7359793960690778,0.7256116320344632
+6,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.5241189560154428,0.6580590290137132,0.6487773625433639
+6,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.48449323969782054,0.6302257047100136,0.677859728528216
+6,BIC minimal,log_pib + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,4,0.522044310757165,0.6559034912372125,0.6510745234199664
+6,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.47790368386780285,0.6109640352523085,0.6972500450290766
+6,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.48064098829425217,0.6201209501842464,0.6881070178787906
+7,Règle de l'écart-type,internet_pct + urbanisation_pct + chomage_pct,3,0.5692769386884018,0.7422545500300625,0.5001253520320608
+7,RMSE minimale,internet_pct + urbanisation_pct + depenses_education_pct_pib + chomage_pct,4,0.5349270898279741,0.6996905569547578,0.5558114088020973
+7,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.4875939829511757,0.624053850346639,0.6466545458202706
+7,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.48791866842286497,0.6365670163585134,0.6323423235495704
+7,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.48630590746131136,0.6385468169298555,0.6300518473845327
+8,Règle de l'écart-type,internet_pct + chomage_pct,2,0.550686218937651,0.7294989888634842,0.545678534219378
+8,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.47056268198911644,0.6139668167608211,0.6781869384580508
+8,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.4627765784112905,0.6529396554308641,0.6360347174289387
+8,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.4731332411380465,0.6094251584656657,0.6829303843551264
+8,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4731739546772897,0.608039584302165,0.6843705088521781
+9,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.6008124707783198,0.7575324688872039,0.3765169716523543
+9,RMSE minimale,log_pib + urbanisation_pct + depenses_education_pct_pib + chomage_pct,4,0.5735329030672338,0.7411059451606778,0.4032633299350802
+9,BIC minimal,log_pib + depenses_education_pct_pib + chomage_pct,3,0.6008124707783198,0.7575324688872039,0.3765169716523543
+9,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_education_pct_pib + chomage_pct,6,0.5461337305941055,0.710779242091834,0.4511020559583807
+9,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5689944230561967,0.734361462933978,0.41407518878657557
+10,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.6138259364717774,0.8410525378520004,0.5700713302410436
+10,RMSE minimale,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.5666025169260518,0.823579593296033,0.5877493871564288
+10,BIC minimal,log_pib + depenses_education_pct_pib + chomage_pct,3,0.6138259364717774,0.8410525378520004,0.5700713302410436
+10,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.568644795231876,0.8300336021891382,0.5812628390333707
+10,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.563621655197308,0.8196558228461023,0.5916681910823602
+11,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.40025370496864016,0.5670725692491961,0.7568163697385198
+11,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.4080532882831713,0.562026477910256,0.76112504939245
+11,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.39758291893080505,0.5521979963165052,0.7694066861884664
+11,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.42583918562366513,0.5667512684949594,0.7570918651603205
+11,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.42344433199692405,0.5701808033886733,0.754143190882641
+12,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.5327263657837136,0.7092621982677815,0.39840543505342185
+12,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.509876478634756,0.6806397453665904,0.445980707950703
+12,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.5111189993403141,0.686741119224933,0.43600353704852546
+12,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5131808103554572,0.6814097788491922,0.44472643289630065
+12,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5139237995085908,0.6824952505015002,0.44295594528004256
+13,Règle de l'écart-type,internet_pct + chomage_pct,2,0.4930997128348853,0.675391168374605,0.590852450230335
+13,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.40941280320058543,0.5633313349466811,0.7153592870835138
+13,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.4379748297556527,0.5927831518207596,0.6848183657338975
+13,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.46098368223893077,0.5967988190174932,0.6805336571816933
+13,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4655910790748067,0.6011757757722886,0.6758305046509996
+14,Règle de l'écart-type,log_pib + chomage_pct,2,0.5676736249717552,0.7174242915247624,0.5819242365324391
+14,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.5175195532392354,0.6647240966684711,0.6410898986608107
+14,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.5348863244159567,0.6906425825308387,0.6125554643043585
+14,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5294859383255262,0.6750159103396368,0.6298899694493634
+14,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5200148025780331,0.6590462581840744,0.6471950793472961
+15,Règle de l'écart-type,internet_pct + chomage_pct,2,0.5427236497772019,0.6783201885825859,0.6699134470544196
+15,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.4227412387342047,0.5306151538916669,0.7980156857559971
+15,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.4365780353049369,0.5611732298349251,0.7740812705064318
+15,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_education_pct_pib + chomage_pct,6,0.46681585687837734,0.5724096774890379,0.7649434911306738
+15,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4564777861175289,0.5606430156674342,0.7745079791099203
+16,Règle de l'écart-type,log_pib + depenses_education_pct_pib,2,0.5608717651879725,0.8513889551632915,0.3562148257661366
+16,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.5042719045985069,0.6818486906693807,0.5870847060006812
+16,BIC minimal,log_pib + depenses_education_pct_pib + chomage_pct,3,0.5376588687080311,0.7331958602549407,0.5225532343279502
+16,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.49117745334777096,0.6713174736291071,0.5997412356370901
+16,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5058775052212108,0.6769302828003133,0.5930202196177572
+17,Règle de l'écart-type,log_pib + internet_pct + chomage_pct,3,0.5670815622889708,0.7048583492670102,0.42420366025260703
+17,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.5304833793520115,0.6865068740719305,0.4537958653305937
+17,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.5247788047095112,0.6840206465342553,0.4577449262744566
+17,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.5114089995193352,0.6733165079666019,0.47458347518036226
+17,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5249006234231947,0.6889315889489083,0.4499307091715976
+18,Règle de l'écart-type,log_pib + chomage_pct,2,0.5892484686698519,0.7260622633299982,0.5565371588507115
+18,RMSE minimale,log_pib + urbanisation_pct + depenses_education_pct_pib + chomage_pct,4,0.5189651797093087,0.6512799044095058,0.6431835559791662
+18,BIC minimal,log_pib + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,4,0.5461079483091414,0.665542563692021,0.627384277997255
+18,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.4928091673011795,0.6249956175612917,0.6714031097972233
+18,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4891440546969541,0.6322363652536759,0.6637452336190417
+19,Règle de l'écart-type,internet_pct + depenses_sante_pct_pib + chomage_pct,3,0.6181689067333214,0.9041037438465968,0.5362516912272293
+19,RMSE minimale,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.6118452235901362,0.8670992650744892,0.573436746911016
+19,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.6118452235901362,0.8670992650744892,0.573436746911016
+19,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.6041126555352612,0.835737078214117,0.6037355206719621
+19,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.6095972194062632,0.8340791730954048,0.6053061516517755
+20,Règle de l'écart-type,log_pib + depenses_sante_pct_pib + chomage_pct,3,0.5836348761783292,0.8287500347987441,0.4961795950521317
+20,RMSE minimale,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.5270601136159205,0.7453988597636013,0.5924263661618787
+20,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.5270601136159205,0.7453988597636013,0.5924263661618787
+20,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5200496830139699,0.7342480479778285,0.6045293710762014
+20,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5219103366069399,0.7360495558646006,0.6025863833796894
+21,Règle de l'écart-type,log_pib + chomage_pct,2,0.5259425942572491,0.7312505152838479,0.675825710020264
+21,RMSE minimale,log_pib + urbanisation_pct + depenses_education_pct_pib + chomage_pct,4,0.4833242019442893,0.6525119782155658,0.7418790974544685
+21,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.47837434623928277,0.6791721626155719,0.7203557124276687
+21,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4715526268072122,0.6567062345710077,0.7385501019584506
+21,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4553854664087655,0.6390017001454313,0.7524572419719133
+22,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.5526501550449402,0.7443087809383536,0.45981428200247365
+22,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.5393875933555562,0.700859092995898,0.5210411117563383
+22,BIC minimal,log_pib + depenses_education_pct_pib + chomage_pct,3,0.5526501550449402,0.7443087809383536,0.45981428200247365
+22,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.5392238950323651,0.7056154474532563,0.5145181790276283
+22,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5434425957603559,0.7088585932300829,0.5100451855570012
+23,Règle de l'écart-type,internet_pct + chomage_pct,2,0.6148823492971027,0.7879559872118075,0.4218809824959546
+23,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.5417690618471201,0.6770501304968487,0.5731699488004729
+23,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.5363981121230439,0.6694059011289925,0.5827537814634736
+23,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5515454221486824,0.667903471283626,0.5846246334386591
+23,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5485442919395641,0.6670924398654144,0.5856327968930042
+24,Règle de l'écart-type,log_pib + chomage_pct,2,0.4914603134841937,0.6459257167202628,0.6472768082695468
+24,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.3710992344042303,0.5366644986410962,0.7565136620969118
+24,BIC minimal,log_pib + depenses_education_pct_pib + chomage_pct,3,0.44390663819752046,0.5845839636796268,0.7110899434013931
+24,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.35437411405685887,0.5215049484301617,0.7700752454559421
+24,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.35183602877974496,0.5123611305317617,0.7780673419525594
+25,Règle de l'écart-type,log_pib + chomage_pct,2,0.4941351524886226,0.5882895348678155,0.7318383077463545
+25,RMSE minimale,log_pib + esperance_vie + urbanisation_pct + depenses_education_pct_pib + chomage_pct,5,0.41266062443897383,0.5298325877449971,0.7824836911502984
+25,BIC minimal,log_pib + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,4,0.41138655019857834,0.5038477868181042,0.8032959949597444
+25,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.39259033665259135,0.4859178442832202,0.8170467250954263
+25,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.3839644946973694,0.4804986604526119,0.8211047313673058
+26,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.5167993602397908,0.6376618850183808,0.6475644121035409
+26,RMSE minimale,log_pib + internet_pct + urbanisation_pct + depenses_education_pct_pib + chomage_pct,5,0.5219730641349811,0.6427914415763614,0.6418713959799307
+26,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.48152522798478037,0.598084266096954,0.6899558128602474
+26,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.5126164760866729,0.6347409890026185,0.6507857744355614
+26,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5176996247258139,0.6401033419739298,0.6448604601194201
+27,Règle de l'écart-type,log_pib + internet_pct + chomage_pct,3,0.5547264598328646,0.7807347871993067,0.5854544558277344
+27,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.5219464197579832,0.7230957664594582,0.6444040321442994
+27,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.5067102932054176,0.7537647895500393,0.6136002088007086
+27,Lasso,log_pib + esperance_vie + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.5162467226757265,0.7261271116732303,0.6414163405259117
+27,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5073102721397301,0.7159276562677601,0.6514191944890317
+28,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.6399250260154512,0.8544317005782762,0.3923667201915607
+28,RMSE minimale,log_pib + internet_pct + urbanisation_pct + depenses_education_pct_pib + chomage_pct,5,0.6147914590765512,0.81061049398878,0.4530957609360702
+28,BIC minimal,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.6168467938039113,0.8129844757016784,0.44988770514503906
+28,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.6077533481264236,0.8201487322569347,0.4401494850541261
+28,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.6106912477818891,0.8213773988184402,0.4384708020798258
+29,Règle de l'écart-type,internet_pct + chomage_pct,2,0.5968705186571652,0.7468419837830919,0.4566235436280883
+29,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.4602922959436844,0.6233381792656857,0.6214782618371357
+29,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.4803490825783386,0.6559638051701298,0.5808175202545893
+29,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.47386606941744386,0.6209629033485919,0.6243575352959513
+29,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.47474769516193616,0.6210773726821193,0.6242190294185441
+30,Règle de l'écart-type,log_pib + chomage_pct,2,0.5374202339370592,0.6805709973331127,0.4983953865663522
+30,RMSE minimale,log_pib + esperance_vie + urbanisation_pct + depenses_education_pct_pib + chomage_pct,5,0.5731230702561255,0.699386514970756,0.47027660274866867
+30,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.45781668368336886,0.611834815579454,0.5946006766402172
+30,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5331074341159552,0.6567902161035045,0.5328374758438403
+30,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5445519542771646,0.6653338959019559,0.5206045079451536
+31,Règle de l'écart-type,internet_pct + depenses_sante_pct_pib + chomage_pct,3,0.5473119910242354,0.8341241890685781,0.5751309875613528
+31,RMSE minimale,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.49642264329441643,0.7640076393333873,0.6435578716627481
+31,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.49642264329441643,0.7640076393333873,0.6435578716627481
+31,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.49078961364277374,0.7556399553375098,0.6513228774499484
+31,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.49243511774514975,0.75265438963367,0.65407271071855
+32,Règle de l'écart-type,internet_pct + chomage_pct,2,0.5365448439442324,0.6871232896912904,0.667113587173535
+32,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.417939385326944,0.5652626853021725,0.7747175472102898
+32,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.4452495259939444,0.605310816566387,0.7416647913446182
+32,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.4384406924699798,0.5737267735167941,0.7679204009193481
+32,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4404941958142801,0.5770182128729068,0.7652499064648864
+33,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.5203905254990169,0.6523162032194845,0.6453194572255421
+33,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.5192865150262806,0.6425031264020719,0.6559104190941054
+33,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.5134303936461089,0.6415167049412354,0.6569661549589811
+33,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5094950778318702,0.6290262201326705,0.6701940173850311
+33,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5193781601609698,0.6409294943040149,0.6575938578092514
+34,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.5517208265810849,0.7436729127556443,0.5461895408741925
+34,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.5186799166085272,0.7100668701521113,0.5862775624678618
+34,BIC minimal,log_pib + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,4,0.5507082694408258,0.7400738592098735,0.5505714026089802
+34,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5213172101692424,0.7062622912251169,0.5906991819973392
+34,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5086309495939286,0.6982692670128582,0.5999111666311878
+35,Règle de l'écart-type,log_pib + depenses_education_pct_pib,2,0.7078397455511388,0.9842394433248739,0.49564078033474035
+35,RMSE minimale,log_pib + urbanisation_pct + depenses_education_pct_pib + chomage_pct,4,0.626111582146079,0.8629614577429567,0.6122772966987159
+35,BIC minimal,log_pib + depenses_education_pct_pib + chomage_pct,3,0.646703592022707,0.8814398881007599,0.5954950568385795
+35,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.6285282700086193,0.8982473582038926,0.5799216198869306
+35,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.6199600810742071,0.8685051179459208,0.6072798387527644
+36,Règle de l'écart-type,log_pib + chomage_pct,2,0.495198940468523,0.6646457802194192,0.4926009603624055
+36,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.43208835011193664,0.5822456296674206,0.6106128529963366
+36,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.4396210767218554,0.6052451975551685,0.5792425237002066
+36,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.42863750209145596,0.5728900102890349,0.6230257932668791
+36,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4530270127408335,0.5942389726035479,0.5944061140434435
+37,Règle de l'écart-type,log_pib + chomage_pct,2,0.5887536963546945,0.7202355624233319,0.5225879240332614
+37,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.45675556831167213,0.5983807754398041,0.6704665221098327
+37,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.4828906036888718,0.6227181590763347,0.6431157860935988
+37,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4392462274157815,0.578494311757639,0.692005853020483
+37,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4359399581119352,0.5776889720743403,0.6928627923257253
+38,Règle de l'écart-type,internet_pct + chomage_pct,2,0.6653059123935091,0.7935859428118713,0.48471233368362576
+38,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.5394506105281578,0.6585220219144176,0.6451846330158181
+38,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.5429913457811613,0.6833149743073977,0.617964526325856
+38,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.539377099210655,0.6591970658884442,0.644456825197555
+38,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5451586814551624,0.6644463023305278,0.6387718452375624
+39,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.4653485901834284,0.6125344384266056,0.7038985899145846
+39,RMSE minimale,log_pib + internet_pct + urbanisation_pct + depenses_education_pct_pib + chomage_pct,5,0.4446308153665814,0.6120211825069776,0.7043946016327602
+39,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.460400484743734,0.6238737048458545,0.6928342306351721
+39,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4609359359862359,0.6144379249630547,0.702055425641747
+39,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4691295452680966,0.619485704455309,0.6971399210124356
+40,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.502094299330626,0.6868569667527469,0.6060107876372458
+40,RMSE minimale,log_pib + internet_pct + urbanisation_pct + depenses_education_pct_pib + chomage_pct,5,0.5408400750958039,0.7053115367823323,0.5845548523503554
+40,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.519895549637922,0.6827929336976615,0.6106593484567927
+40,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5230039678946363,0.695690772609443,0.5958112683784826
+40,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5338856083034993,0.7007966815204457,0.5898565419127463
+41,Règle de l'écart-type,log_pib + chomage_pct,2,0.38955824437010794,0.4888651501847864,0.7936534719210211
+41,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.3580269840103557,0.4653276242103007,0.8130451746249332
+41,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.35483965723332134,0.4548218741841559,0.8213916759215674
+41,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.3513092375350552,0.44957315281311083,0.8254902302185531
+41,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.3507906813772191,0.44985366486208556,0.8252723908539991
+42,Règle de l'écart-type,log_pib + chomage_pct,2,0.6049778733168246,0.8383204663332952,0.5729557971417802
+42,RMSE minimale,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.5225826948518112,0.8004432348434118,0.6106736755991
+42,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.5225826948518112,0.8004432348434118,0.6106736755991
+42,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5243609431257215,0.8063403031297899,0.6049160128445568
+42,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5242926908193424,0.8057979871580574,0.6054472731663082
+43,Règle de l'écart-type,log_pib + internet_pct + chomage_pct,3,0.5923543617125625,0.7509173196609853,0.5643287479136168
+43,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.5611015769487042,0.7104327935228878,0.6100394612891924
+43,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.5712704602183389,0.7214463025457577,0.5978549890718189
+43,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.5599763107202917,0.6971072254240364,0.6245312217138299
+43,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5562339162949937,0.7048774949398562,0.6161142857229599
+44,Règle de l'écart-type,log_pib + chomage_pct,2,0.45989744460824333,0.5791610375016173,0.6934032925188752
+44,RMSE minimale,log_pib + internet_pct + urbanisation_pct + depenses_education_pct_pib + chomage_pct,5,0.4119800895747711,0.5335404547022512,0.7398022594725511
+44,BIC minimal,log_pib + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,4,0.44446823084473486,0.5384333337380885,0.7350080450161918
+44,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.4176906286324997,0.5367493012198233,0.7366630584631564
+44,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.41409467815215745,0.5279907940402658,0.7451870402066059
+45,Règle de l'écart-type,log_pib + chomage_pct,2,0.6171105095906069,0.823888465530914,0.5135987376560762
+45,RMSE minimale,log_pib + depenses_education_pct_pib + chomage_pct,3,0.6021159014305797,0.8006010334000226,0.5407066678344938
+45,BIC minimal,log_pib + depenses_education_pct_pib + chomage_pct,3,0.6021159014305797,0.8006010334000226,0.5407066678344938
+45,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_education_pct_pib + chomage_pct,6,0.5758767566276325,0.7637732844099479,0.5819899007532547
+45,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5779460933092153,0.7652006632238629,0.5804260432443493
+46,Règle de l'écart-type,log_pib + depenses_education_pct_pib + chomage_pct,3,0.37627102725494277,0.5497472668023966,0.7247987587801161
+46,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.3262956589548779,0.4891704084753136,0.7821063443632355
+46,BIC minimal,log_pib + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,4,0.3799796522144408,0.5486620659428388,0.7258841806654626
+46,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.3158705213285289,0.4686983574614643,0.7999626494616285
+46,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.31614021624343086,0.4759606055193595,0.7937156659553328
+47,Règle de l'écart-type,internet_pct + depenses_education_pct_pib + chomage_pct,3,0.6036508489291045,0.7180065169274573,0.45983011627909665
+47,RMSE minimale,log_pib + internet_pct + urbanisation_pct + depenses_education_pct_pib + chomage_pct,5,0.5430842605599145,0.6306226924130666,0.5833102823991844
+47,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.530493918042164,0.623798362698813,0.5922799620218305
+47,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5279415329928938,0.6151489629025312,0.603508220695027
+47,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5354849139892013,0.6257779418152154,0.5896881157458209
+48,Règle de l'écart-type,log_pib + chomage_pct,2,0.5757370425959686,0.7556845081983155,0.5068945594812249
+48,RMSE minimale,log_pib + internet_pct + depenses_education_pct_pib + chomage_pct,4,0.5044851055633374,0.6840619947283885,0.5959364446255344
+48,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + chomage_pct,4,0.5349720388057077,0.7248235055253942,0.546347515707455
+48,Lasso,log_pib + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,6,0.5240851304098034,0.6894316163258704,0.589568062991787
+48,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5237125148197526,0.6915476968229586,0.5870447093884892
+49,Règle de l'écart-type,internet_pct + depenses_sante_pct_pib + chomage_pct,3,0.5260911096878437,0.7750047660051702,0.6259338680372426
+49,RMSE minimale,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.5051495354468817,0.7258411274969417,0.6718874913867408
+49,BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,5,0.5051495354468817,0.7258411274969417,0.6718874913867408
+49,Lasso,log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5042928278012725,0.7335469670870549,0.6648837450946324
+49,Aucune sélection (7 variables),log_pib + esperance_vie + internet_pct + urbanisation_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct,7,0.5054620269353809,0.7333460795628752,0.6650672683307334

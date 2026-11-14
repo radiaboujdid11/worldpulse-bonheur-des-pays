@@ -1,0 +1,2 @@
+procedure,variables
+BIC minimal,log_pib + internet_pct + depenses_sante_pct_pib + depenses_education_pct_pib + chomage_pct
