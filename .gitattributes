@@ -1,0 +1,7 @@
+# Fins de ligne : toujours LF dans le dépôt et sur le disque (évite les avertissements CRLF sous Windows)
+* text=auto eol=lf
+
+# Fichiers binaires : jamais modifiés par Git
+*.png binary
+*.db binary
+*.zip binary

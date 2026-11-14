@@ -1,0 +1,26 @@
+# Vérification automatique : lance les tests à chaque envoi (push) et à chaque pull request.
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Seules les bibliothèques utiles aux tests (installation rapide) :
+      # les tests lisent les données versionnées et ne relancent ni téléchargement ni modèle.
+      - name: Installer les dépendances des tests
+        run: pip install -r requirements-tests.txt
+
+      - name: Lancer les tests
+        run: pytest -v

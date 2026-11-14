@@ -1,6 +1,6 @@
 # WorldPulse — Qu'est-ce qui rend un pays heureux ?
 
-![Python 3.12](https://img.shields.io/badge/python-3.12-blue) ![Licence MIT](https://img.shields.io/badge/licence-MIT-green)
+[![tests](https://github.com/radiaboujdid11/worldpulse-bonheur-des-pays/actions/workflows/tests.yml/badge.svg)](https://github.com/radiaboujdid11/worldpulse-bonheur-des-pays/actions/workflows/tests.yml) ![Python 3.12](https://img.shields.io/badge/python-3.12-blue) ![Licence MIT](https://img.shields.io/badge/licence-MIT-green)
 
 > **In English.** Which factors explain how happy a country is? I combined 7 World Bank indicators with the World Happiness Report scores (146 countries, 2026 report), then selected variables with explicit statistical criteria (adjusted R², AIC/BIC, Lasso stability, nested cross-validation). A 5-variable linear regression explains **≈ 63 % of the differences on countries it has never seen**; GDP and **unemployment** are the two main factors. Governance adds nothing beyond wealth, and the Easterlin paradox does not hold over 2016–2026. All results are associations, not causal effects.
 
@@ -72,12 +72,24 @@ jupyter nbconvert --to notebook --execute --inplace notebooks/rapport_worldpulse
 jupyter nbconvert --to html --no-input --output-dir reports --output rapport_worldpulse notebooks/rapport_worldpulse.ipynb
 ```
 
+### Tests
+
+```powershell
+pip install pytest
+pytest -v
+```
+
+13 tests vérifient la fusion (moyenne sur la période, sinon repli ; conversion ISO3 sans doublon), la qualité des données (146 pays uniques, score entre 0 et 10, indicateurs dans des bornes plausibles) et la cohérence des résultats (le score hors échantillon est inférieur au score sur l'échantillon, la validation croisée imbriquée est plus prudente). Ils sont relancés automatiquement par GitHub Actions à chaque envoi.
+
+### Données versionnées
+
 Les données téléchargées en novembre 2026 sont versionnées dans `data/` : deux sources ont changé pendant le projet (API World Bank en erreur 502, indicateurs de gouvernance archivés), et cet instantané garantit que les résultats restent reproductibles. La base SQLite `db/worldpulse.db` n'est pas versionnée ; elle est recréée par l'étape 04.
 
 ## Structure du projet
 
 ```
 ├── run_all.py                    # relance les étapes 01 à 08
+├── tests/                        # tests pytest (données, fusion, résultats)
 ├── src/
 │   ├── 01_extraction_api.py      # API World Bank : pays + 7 indicateurs (ZIP/CSV)
 │   ├── 02_scraping_wikipedia.py  # tableaux du World Happiness Report
